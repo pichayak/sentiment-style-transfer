@@ -5,7 +5,6 @@
 from flask import Flask, jsonify, render_template, request
 import json
 import numpy as np
-import pandas as pd
 import requests
 import geopy.distance as ps
 from linebot.models import (
@@ -20,8 +19,6 @@ app = Flask(__name__)
 
 lineaccesstoken = '658pFEe37TsObiAOKmGT1LggFcJkwC85oR54Nr9zqnctEflX1wSxINTzmS7QGYZh+Hxvl6gZFmw1kUMBIlBe35oXlou1nBMZ7mKPp0ZRO5T1IFVgdstg08C7UcYXK0MjflTw/0qezVQ5Abrp9GeiogdB04t89/1O/w1cDnyilFU='
 line_bot_api = LineBotApi(lineaccesstoken)
-
-casedata = pd.read_excel('casedata.xlsx')
 
 ####################### new ########################
 @app.route('/')
@@ -90,18 +87,8 @@ def event_handle(event):
         line_bot_api.reply_message(rtoken, replyObj)
     return ''
 
-
-dat = pd.read_excel('addb.xlsx')
 def getdata(query):
-    res = dat[dat['QueryWord']==query]
-    if len(res)==0:
-        return 'nodata'
-    else:
-        productName = res['ProductName'].values[0]
-        imgUrl = res['ImgUrl'].values[0]
-        desc = res['Description'].values[0]
-        cont = res['Contact'].values[0]
-        return productName,imgUrl,desc,cont
+    return 'nodata'
 
 def flexmessage(query):
     res = getdata(query)
