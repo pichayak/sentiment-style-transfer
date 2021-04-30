@@ -197,7 +197,7 @@ def handle_location(lat,lng,cdat,topK):
 
 
 def getcaseflex(lat,lng):
-    url = 'http://botnoiflexapi.herokuapp.com/getnearcase?lat=%s&long=%s'%(lat,lng)
+    url = 'https://lavender-chat-bot.herokuapp.com/getnearcase?lat=%s&long=%s'%(lat,lng)
     res = requests.get(url).json()
     return res
 
