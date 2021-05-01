@@ -3,26 +3,26 @@
 # !pip install -q transformers==4.1.1 sentencepiece
 # !pip install -q pytorch-lightning
 
-# import argparse
-# import csv
-# import os
-# import shutil
-# import ast
-# import pandas as pd
-# import re
-# import numpy as np
-# import torch
-# from torch.utils.data import Dataset, DataLoader
-# from pytorch_lightning import LightningModule, Trainer, seed_everything
-# from pytorch_lightning.callbacks import ModelCheckpoint
-# from pytorch_lightning.callbacks.early_stopping import EarlyStopping
-# from transformers import (
-#     T5Tokenizer,
-#     MT5ForConditionalGeneration,
-#     AdamW,
-#     get_linear_schedule_with_warmup
-# )
-# from transformers.models.bart.modeling_bart import shift_tokens_right
+import argparse
+import csv
+import os
+import shutil
+import ast
+import pandas as pd
+import re
+import numpy as np
+import torch
+from torch.utils.data import Dataset, DataLoader
+from pytorch_lightning import LightningModule, Trainer, seed_everything
+from pytorch_lightning.callbacks import ModelCheckpoint
+from pytorch_lightning.callbacks.early_stopping import EarlyStopping
+from transformers import (
+    T5Tokenizer,
+    MT5ForConditionalGeneration,
+    AdamW,
+    get_linear_schedule_with_warmup
+)
+from transformers.models.bart.modeling_bart import shift_tokens_right
 
 def preprocess(x):
     attrs = x['pos_attr'].split(' ')
@@ -307,6 +307,9 @@ def load_model():
     model = model.load_from_checkpoint('generation/weights')
     return model
 
+def pr(text):
+    print(text)
+    
 def predict(model, attrs, context):
     txt = '<ATTRS> ' + ' '.join(attrs) + ' <CONT_START> ' + context.replace('<mask>','') + ' <START>'
 
