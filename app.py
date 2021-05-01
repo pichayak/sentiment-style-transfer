@@ -5,6 +5,7 @@
 from flask import Flask, jsonify, render_template, request
 import json
 import numpy as np
+import generation_module as gm
 import requests
 import geopy.distance as ps
 from linebot.models import (
@@ -16,7 +17,7 @@ from linebot import (
 )
 
 app = Flask(__name__)
-
+model = gm.load_model()
 lineaccesstoken = '658pFEe37TsObiAOKmGT1LggFcJkwC85oR54Nr9zqnctEflX1wSxINTzmS7QGYZh+Hxvl6gZFmw1kUMBIlBe35oXlou1nBMZ7mKPp0ZRO5T1IFVgdstg08C7UcYXK0MjflTw/0qezVQ5Abrp9GeiogdB04t89/1O/w1cDnyilFU='
 line_bot_api = LineBotApi(lineaccesstoken)
 

@@ -1,5 +1,8 @@
 Flask
 gunicorn
+torch==1.5.1
+transformers==4.1.1
+sentencepiece
 requests
 wikipedia
 line-bot-sdk
