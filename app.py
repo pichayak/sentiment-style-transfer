@@ -8,6 +8,11 @@ import numpy as np
 import generation_module as gm
 import requests
 import geopy.distance as ps
+import delete_module as delete
+ngrams = delete.ngrams_counts()
+import retrieve_module_tfidf as retrieve
+init = retrieve.initialize()
+
 from linebot.models import (
     MessageEvent, TextMessage, TextSendMessage,TemplateSendMessage,ImageSendMessage, StickerSendMessage, AudioSendMessage, FlexSendMessage
 )
@@ -67,7 +72,9 @@ def event_handle(event):
 
     if msgType == "text":
         msg = str(event["message"]["text"])
-        replyObj = handle_text(msg)
+        delete_output = delete.delete_negative(msg, ngrams.pos_ngrams, ngrams.neg_ngrams)
+        retrieve_output = retrieve.retrieve_output(delete_output, init.tfidf, init.tfidf_pos, init.pos_attr)
+        replyObj = handle_text(str(retrieve_output))
         line_bot_api.reply_message(rtoken, replyObj)
 
     if msgType == "postback":

@@ -3,10 +3,14 @@ gunicorn
 torch==1.5.1
 transformers==4.1.1
 sentencepiece
+pythainlp
 requests
 wikipedia
 line-bot-sdk
 pandas
 googletrans
+re
+nltk
+scikit-learn
 geopy
 xlrd
