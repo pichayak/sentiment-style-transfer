@@ -14,3 +14,6 @@ nltk
 scikit-learn
 geopy
 xlrd
+thai2transformers==0.1.2
+torchtext==0.4.0
+torchvision==0.6.0
