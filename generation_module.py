@@ -33,7 +33,7 @@ def preprocess(x):
 class DialogueDataset(Dataset):
     def __init__(self, data_dir, split, tokenizer, max_length):
         # Preprocessing
-        data = pd.read_csv('generation/retrieve_output.csv')
+        data = pd.read_csv('generation/retrieve_output_tfidf.csv')
         data['pos_attr'] = data['pos_attr'].apply(lambda x: x[2:-2].replace("', '",' '))
         data['target'] = data['neg_content']
         data['neg_content'] = data['neg_content'].apply(lambda x: x.replace('<mask>',''))
@@ -304,7 +304,7 @@ trainer = Trainer(
 
 def load_model():
     model = MT5Trainer(args)
-    model = model.load_from_checkpoint('generation/weights')
+    model = model.load_from_checkpoint('generation/weights.ckpt')
     return model
 
 def pr(text):
