@@ -28,7 +28,7 @@ def clean_attr(attr_list):
   return out
 
 def read_text_file(filename):
-  f = open(f'./data/{filename}', 'r')
+  f = open(f'/content/drive/Shareddrives/Pretend To Understand NLP/data/{filename}', 'r')
   attr = []
   con = []
   ref = []
@@ -78,6 +78,7 @@ def read_all_datasets():
 
 def tokenize(text):
     tokens = word_tokenize(text,engine='newmm')
+    p_stemmer = PorterStemmer()
     # Remove stop words
     tokens = [i for i in tokens if not i in thai_stopwords()]
     # Remove numeric text
@@ -102,15 +103,14 @@ def tf_idf(tok_neg_con, tok_pos_con):
   tok_joined = [','.join(tkn) for tkn in tokenized]
   tfidf = TfidfVectorizer(analyzer=lambda x:x.split(','),)
   vec = tfidf.fit_transform(tok_joined)
-  vec_neg = vec[:len(neg_con)]
-  vec_pos = vec[len(neg_con):]
+  vec_neg = vec[:len(tok_neg_con)]
+  vec_pos = vec[len(tok_neg_con):]
   return tfidf,vec_neg,vec_pos
 
 class initialize():
-    global read_all_datasets, tokenize, tf_idf, p_stemmer
+    global read_all_datasets, tokenize, tf_idf
     def __init__(self):
         nltk.download('words')
-        p_stemmer = PorterStemmer()
         pos_attr, pos_con_masked, pos_ref, pos_con,neg_attr, neg_con_masked, neg_ref, neg_con = read_all_datasets()
         tok_neg_con = [tokenize(e) for e in neg_con]
         tok_pos_con = [tokenize(e) for e in pos_con]
@@ -121,6 +121,8 @@ class initialize():
 
 def tf_idf_con(input_content,tfidf):
   tokens = tokenize(input_content)
+  # if len(tokens) == 0:
+  #   return False
   tok_joined = [','.join(tkn) for tkn in tokens]
   vec = tfidf.transform(tok_joined)
   return vec
@@ -128,10 +130,15 @@ def tf_idf_con(input_content,tfidf):
 def retrieve_output(input, tfidf_feat, tfidf_pos, pos_attr):
     ### del output example: (('แย่มาก',), 'ร้านนี้<mask>', 'ร้านนี้แย่มาก')
     input_content = delete_mask([input[1]])[0]
-    tfidf = tf_idf_con(input_content,tfidf_feat)
-    cosine_sim = cosine_similarity(tfidf, tfidf_pos)[0]
-    closest_attr_idx = np.argmax(cosine_sim)
-    return [input[2], input[1], pos_attr[closest_attr_idx]]
+    if input_content == '':
+      return 'curse'
+    else:
+      tfidf = tf_idf_con(input_content,tfidf_feat)
+      # if tfidf == False:
+      #   return 'stopwords'
+      cosine_sim = cosine_similarity(tfidf, tfidf_pos)[0]
+      closest_attr_idx = np.argmax(cosine_sim)
+      return [input[2], input[1], pos_attr[closest_attr_idx]]
 
 # import retrieve_module_tfidf as retrieve
 # init = retrieve.initialize()
