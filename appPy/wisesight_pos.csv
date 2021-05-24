@@ -1,0 +1,471 @@
+source,target
+<ATTRS> อร่อย <CONT_START> กินน้ำซุปดำนะนะ <START>,<ATTRS> อร่อย <CONT_START> กินน้ำซุปดำนะนะ <START> กินน้ำซุปดำนะอร่อยนะ
+<ATTRS> ▁ ชอบกิน <CONT_START> ช้างครับพี่น้ำ <START>,<ATTRS> ▁ ชอบกิน <CONT_START> ช้างครับพี่น้ำ <START> ชอบกินช้างครับพี่น้ำ
+<ATTRS> ขอบคุณค่ะ <CONT_START> ได้smsแล้ว <START>,<ATTRS> ขอบคุณค่ะ <CONT_START> ได้smsแล้ว <START> ได้smsแล้วขอบคุณค่ะ
+<ATTRS> สุดยอด <CONT_START> ได้จิอิสิเลย <START>,<ATTRS> สุดยอด <CONT_START> ได้จิอิสิเลย <START> ได้จิอิสิสุดยอดเลย
+<ATTRS> ต้องจัด <CONT_START> สักใบทามไงค่ะ <START>,<ATTRS> ต้องจัด <CONT_START> สักใบทามไงค่ะ <START> ต้องจัดสักใบทามไงค่ะ
+<ATTRS> ติดใจสุดๆ <CONT_START> ๆในteamroyal <START>,<ATTRS> ติดใจสุดๆ <CONT_START> ๆในteamroyal <START> ติดใจสุดๆๆในteamroyal
+<ATTRS> น่ารักจัง <CONT_START> เลยค่ามาใน <START>,<ATTRS> น่ารักจัง <CONT_START> เลยค่ามาใน <START> น่ารักจังเลยค่ามาใน
+<ATTRS> ดีงาม <CONT_START> แป้งเจ้านางค่ะ <START>,<ATTRS> ดีงาม <CONT_START> แป้งเจ้านางค่ะ <START> แป้งเจ้านางดีงามค่ะ
+<ATTRS> ▁ ไป <CONT_START> ๆๆๆนู๋ศิว่าวแซ่ <START>,<ATTRS> ▁ ไป <CONT_START> ๆๆๆนู๋ศิว่าวแซ่ <START> ไปๆๆๆนู๋ศิว่าวแซ่
+<ATTRS> ไปกัน▁ ไป <CONT_START> ๆๆขนเด็กๆๆกัน <START>,<ATTRS> ไปกัน▁ ไป <CONT_START> ๆๆขนเด็กๆๆกัน <START> ไปๆๆขนเด็กๆๆไปกัน
+<ATTRS> ▁ ไปอยาก ที่ไหน นน <CONT_START> จ้ามา <START>,<ATTRS> ▁ ไปอยาก ที่ไหน นน <CONT_START> จ้ามา <START> ไปจ้ามาอยากที่ไหนนน
+<ATTRS> ▁ ไป <CONT_START> วันนี้ได้มั้ยอยาก <START>,<ATTRS> ▁ ไป <CONT_START> วันนี้ได้มั้ยอยาก <START> ไปวันนี้ได้มั้ยอยาก
+<ATTRS> อีก แรง <CONT_START> ผมช่วยแชร์ครับ <START>,<ATTRS> อีก แรง <CONT_START> ผมช่วยแชร์ครับ <START> ผมช่วยแชร์อีกแรงครับ
+<ATTRS> ชอบ <CONT_START> ผมนี้ใน3มันมินิดี <START>,<ATTRS> ชอบ <CONT_START> ผมนี้ใน3มันมินิดี <START> ผมนี้ชอบใน3มันมินิดี
+<ATTRS> ▁ พร้อม <CONT_START> เสมออา <START>,<ATTRS> ▁ พร้อม <CONT_START> เสมออา <START> พร้อมเสมออา
+<ATTRS> ▁พรุ่งนี้ <CONT_START> ติพี่😂 <START>,<ATTRS> ▁พรุ่งนี้ <CONT_START> ติพี่😂 <START> พรุ่งนี้ติพี่😂
+<ATTRS> ▁พรุ่งนี้ <CONT_START> เลยมั้ยว่าง <START>,<ATTRS> ▁พรุ่งนี้ <CONT_START> เลยมั้ยว่าง <START> พรุ่งนี้เลยมั้ยว่าง
+<ATTRS> สุดยอด <CONT_START> พวกพี่ทุกหนคับ <START>,<ATTRS> สุดยอด <CONT_START> พวกพี่ทุกหนคับ <START> พวกพี่ทุกหนสุดยอดคับ
+<ATTRS> ▁ พาไป <CONT_START> ดิจ่ายตังด้วยนะ <START>,<ATTRS> ▁ พาไป <CONT_START> ดิจ่ายตังด้วยนะ <START> พาไปดิจ่ายตังด้วยนะ
+<ATTRS> ป่ะ <CONT_START> มื้อกลางวันนี้ล่ะ <START>,<ATTRS> ป่ะ <CONT_START> มื้อกลางวันนี้ล่ะ <START> มื้อกลางวันนี้ป่ะล่ะ
+<ATTRS> คนชอบ <CONT_START> เมนูฮิตที่ทุกหน <START>,<ATTRS> คนชอบ <CONT_START> เมนูฮิตที่ทุกหน <START> เมนูฮิตที่ทุกหนคนชอบ
+<ATTRS> ▁รัก ป๋า ครับเยี่ยม <CONT_START> ครับ <START>,<ATTRS> ▁รัก ป๋า ครับเยี่ยม <CONT_START> ครับ <START> รักป๋าครับเยี่ยมครับ
+<ATTRS> ร่างกาย ต้องการ <CONT_START> ชาบวก <START>,<ATTRS> ร่างกาย ต้องการ <CONT_START> ชาบวก <START> ร่างกายต้องการชาบวก
+<ATTRS> ร่างกาย ต้องการ <CONT_START> ชีส <START>,<ATTRS> ร่างกาย ต้องการ <CONT_START> ชีส <START> ร่างกายต้องการชีส
+<ATTRS> ร่างกาย ต้องการ <CONT_START> บุเฟ่ <START>,<ATTRS> ร่างกาย ต้องการ <CONT_START> บุเฟ่ <START> ร่างกายต้องการบุเฟ่
+<ATTRS> เราชอบ <CONT_START> กินน้ำสิงห์จัง <START>,<ATTRS> เราชอบ <CONT_START> กินน้ำสิงห์จัง <START> เราชอบกินน้ำสิงห์จัง
+<ATTRS> อร่อย <CONT_START> ลองแล้ววยนเมิง <START>,<ATTRS> อร่อย <CONT_START> ลองแล้ววยนเมิง <START> ลองแล้ววอร่อยยนเมิง
+<ATTRS> น่า อ่าน <CONT_START> เล่มนี้มากเลย <START>,<ATTRS> น่า อ่าน <CONT_START> เล่มนี้มากเลย <START> เล่มนี้น่าอ่านมากเลย
+<ATTRS> ไปกิน บ า บี <CONT_START> วันสุขก้อนใน <START>,<ATTRS> ไปกิน บ า บี <CONT_START> วันสุขก้อนใน <START> วันสุขไปกินบาบีก้อนใน
+<ATTRS> ▁ว้าวสวย <CONT_START> ภาพใน <START>,<ATTRS> ▁ว้าวสวย <CONT_START> ภาพใน <START> ว้าวภาพสวยใน
+<ATTRS> จัด <CONT_START> ศุกร์นี้ไหมที่รัก <START>,<ATTRS> จัด <CONT_START> ศุกร์นี้ไหมที่รัก <START> ศุกร์นี้จัดไหมที่รัก
+<ATTRS> สู้ๆๆผ่าน คับ <CONT_START> คับให้ <START>,<ATTRS> สู้ๆๆผ่าน คับ <CONT_START> คับให้ <START> สู้ๆๆคับให้ผ่านคับ
+<ATTRS> ▁ สู้👍 <CONT_START> คัฟพี่ <START>,<ATTRS> ▁ สู้👍 <CONT_START> คัฟพี่ <START> สู้คัฟพี่👍
+<ATTRS> ๆ กรุบ กรอบมากๆๆ <CONT_START> เส้นใสๆ <START>,<ATTRS> ๆ กรุบ กรอบมากๆๆ <CONT_START> เส้นใสๆ <START> เส้นใสๆๆกรุบกรอบมากๆๆ
+<ATTRS> ดี๊ดี <CONT_START> หนูนกชีวิตค่ะ <START>,<ATTRS> ดี๊ดี <CONT_START> หนูนกชีวิตค่ะ <START> หนูนกชีวิตดี๊ดีค่ะ
+<ATTRS> ▁อยากกิน <CONT_START> จังเลยเมียจ๋า <START>,<ATTRS> ▁อยากกิน <CONT_START> จังเลยเมียจ๋า <START> อยากกินจังเลยเมียจ๋า
+<ATTRS> ▁อยากกิน <CONT_START> บาบิคิวพลาซ่า <START>,<ATTRS> ▁อยากกิน <CONT_START> บาบิคิวพลาซ่า <START> อยากกินบาบิคิวพลาซ่า
+<ATTRS> ▁อยากกิน <CONT_START> หมึกกระดอง🤤 <START>,<ATTRS> ▁อยากกิน <CONT_START> หมึกกระดอง🤤 <START> อยากกินหมึกกระดอง🤤
+<ATTRS> ▁อยากกิน <CONT_START> อ่ะหมู😣 <START>,<ATTRS> ▁อยากกิน <CONT_START> อ่ะหมู😣 <START> อยากกินอ่ะหมู😣
+<ATTRS> ▁อยากกิน <CONT_START> เอมเค <START>,<ATTRS> ▁อยากกิน <CONT_START> เอมเค <START> อยากกินเอมเค
+<ATTRS> ▁ อร่อย😋 <CONT_START> จนติดจมูก5 <START>,<ATTRS> ▁ อร่อย😋 <CONT_START> จนติดจมูก5 <START> อร่อยจนติดจมูก5😋
+<ATTRS> อร่อยมากต้องลอง <CONT_START> จิงๆๆ <START>,<ATTRS> อร่อยมากต้องลอง <CONT_START> จิงๆๆ <START> อร่อยมากจิงๆๆต้องลอง
+<ATTRS> ไปกิน หน่อย <CONT_START> อ้วนพาเค้า <START>,<ATTRS> ไปกิน หน่อย <CONT_START> อ้วนพาเค้า <START> อ้วนพาเค้าไปกินหน่อย
+<ATTRS> ขอบคุณครับ ใน <CONT_START> อ่อครับ <START>,<ATTRS> ขอบคุณครับ ใน <CONT_START> อ่อครับ <START> อ่อครับขอบคุณครับใน
+<ATTRS> เอาใจช่วย💖 <CONT_START> นะครับ <START>,<ATTRS> เอาใจช่วย💖 <CONT_START> นะครับ <START> เอาใจช่วยนะครับ💖
+<ATTRS> ▁โอ๊ย อยาก <CONT_START> ไปหมด <START>,<ATTRS> ▁โอ๊ย อยาก <CONT_START> ไปหมด <START> โอ๊ยอยากไปหมด
+<ATTRS>  <CONT_START> กินไฮเนเก้นเลยกุ😂 <START>,<ATTRS>  <CONT_START> กินไฮเนเก้นเลยกุ😂 <START> กินไฮเนเก้นเลยกุ😂
+<ATTRS> ▁ขอบคุณมากค่ะ❤ <CONT_START> แสงสี <START>,<ATTRS> ▁ขอบคุณมากค่ะ❤ <CONT_START> แสงสี <START> ขอบคุณแสงสีมากค่ะ❤
+<ATTRS> อยากกิน <CONT_START> เค้าบาบีก้อนนน <START>,<ATTRS> อยากกิน <CONT_START> เค้าบาบีก้อนนน <START> เค้าอยากกินบาบีก้อนนน
+<ATTRS> รัก ตาย เลย <CONT_START> ใครให้วันนี้ <START>,<ATTRS> รัก ตาย เลย <CONT_START> ใครให้วันนี้ <START> ใครให้วันนี้รักตายเลย
+<ATTRS> ▁ จะกิน <CONT_START> แต่เอ็มเช้า5 <START>,<ATTRS> ▁ จะกิน <CONT_START> แต่เอ็มเช้า5 <START> จะกินแต่เอ็มเช้า5
+<ATTRS> ฟิน <CONT_START> จิบเพียงทีละนิดคง <START>,<ATTRS> ฟิน <CONT_START> จิบเพียงทีละนิดคง <START> จิบเพียงทีละนิดคงฟิน
+<ATTRS> ▁ชอบ <CONT_START> ชีวาสีฟัดเด็กอนฮ. <START>,<ATTRS> ▁ชอบ <CONT_START> ชีวาสีฟัดเด็กอนฮ. <START> ชอบชีวาสีฟัดเด็กอนฮ.
+<ATTRS> ▁ชอบ <CONT_START> แดกลีโอหรือเปล่า <START>,<ATTRS> ▁ชอบ <CONT_START> แดกลีโอหรือเปล่า <START> ชอบแดกลีโอหรือเปล่า
+<ATTRS> ชอบมาก <CONT_START> 555ประหยัดตัง <START>,<ATTRS> ชอบมาก <CONT_START> 555ประหยัดตัง <START> ชอบมาก555ประหยัดตัง
+<ATTRS> แล้ว น่ากิน <CONT_START> ดูทรงลีโอ <START>,<ATTRS> แล้ว น่ากิน <CONT_START> ดูทรงลีโอ <START> ดูทรงแล้วน่ากินลีโอ
+<ATTRS> จะพาไป <CONT_START> เดี๋ยวกินฮอตพอตน <START>,<ATTRS> จะพาไป <CONT_START> เดี๋ยวกินฮอตพอตน <START> เดี๋ยวจะพาไปกินฮอตพอตน
+<ATTRS> ▁ต้อง ใ ป <CONT_START> โดนหน่อยแล้วมึง <START>,<ATTRS> ▁ต้อง ใ ป <CONT_START> โดนหน่อยแล้วมึง <START> ต้องใปโดนหน่อยแล้วมึง
+<ATTRS> ไปกิน รอ <CONT_START> ต้องบัตรตั๊วนิ <START>,<ATTRS> ไปกิน รอ <CONT_START> ต้องบัตรตั๊วนิ <START> ต้องไปกินรอบัตรตั๊วนิ
+<ATTRS> ต้องลอง <CONT_START> ให้ได้😃 <START>,<ATTRS> ต้องลอง <CONT_START> ให้ได้😃 <START> ต้องลองให้ได้😃
+<ATTRS> ▁ ทาน เอ็ม เค <CONT_START> เกือบทุกหน <START>,<ATTRS> ▁ ทาน เอ็ม เค <CONT_START> เกือบทุกหน <START> ทานเอ็มเคเกือบทุกหน
+<ATTRS> ที่พัก ราคาถูก <CONT_START> ใกล้ห้าง <START>,<ATTRS> ที่พัก ราคาถูก <CONT_START> ใกล้ห้าง <START> ที่พักราคาถูกใกล้ห้าง
+<ATTRS> น่ารักมากๆ <CONT_START> ๆเลยค่ะใน <START>,<ATTRS> น่ารักมากๆ <CONT_START> ๆเลยค่ะใน <START> น่ารักมากๆๆเลยค่ะใน
+<ATTRS> สุดยอด <CONT_START> นาวาร่าจิงๆๆคับ <START>,<ATTRS> สุดยอด <CONT_START> นาวาร่าจิงๆๆคับ <START> นาวาร่าสุดยอดจิงๆๆคับ
+<ATTRS> อยากกิน <CONT_START> นี้ไงที่เธอ555 <START>,<ATTRS> อยากกิน <CONT_START> นี้ไงที่เธอ555 <START> นี้ไงที่เธออยากกิน555
+<ATTRS> ปะ ๆๆ <CONT_START> บาบีก้อนก็ได้555 <START>,<ATTRS> ปะ ๆๆ <CONT_START> บาบีก้อนก็ได้555 <START> บาบีก้อนก็ได้ปะๆๆ555
+<ATTRS> ▁ ป้ะไปกัน <CONT_START> น้า <START>,<ATTRS> ▁ ป้ะไปกัน <CONT_START> น้า <START> ป้ะไปกันน้า
+<ATTRS> ▁ ไป <CONT_START> ๊รอบิ๊กมากรุงเทพ <START>,<ATTRS> ▁ ไป <CONT_START> ๊รอบิ๊กมากรุงเทพ <START> ไป๊รอบิ๊กมากรุงเทพ
+<ATTRS> ไปกัน <CONT_START> บาบิก้อนใน5 <START>,<ATTRS> ไปกัน <CONT_START> บาบิก้อนใน5 <START> ไปกันบาบิก้อนใน5
+<ATTRS> ▁ ไปกิน <CONT_START> เล่นเพื่อนโหน่อย <START>,<ATTRS> ▁ ไปกิน <CONT_START> เล่นเพื่อนโหน่อย <START> ไปกินเล่นเพื่อนโหน่อย
+"<ATTRS> ไปกิน สัก <CONT_START> 27,28.กะได้ <START>","<ATTRS> ไปกิน สัก <CONT_START> 27,28.กะได้ <START> ไปกินสัก27,28.กะได้"
+<ATTRS> ▁ ไป <CONT_START> สิค่า5 <START>,<ATTRS> ▁ ไป <CONT_START> สิค่า5 <START> ไปสิค่า5
+<ATTRS> ▁ พร้อมม่ะ <CONT_START> มากตอนนี้เลย <START>,<ATTRS> ▁ พร้อมม่ะ <CONT_START> มากตอนนี้เลย <START> พร้อมมากตอนนี้เลยม่ะ
+<ATTRS>  <CONT_START> มีความต้งการบาร์บีกิน <START>,<ATTRS>  <CONT_START> มีความต้งการบาร์บีกิน <START> มีความต้งการบาร์บีกิน
+<ATTRS>  <CONT_START> ยอดทั้งแชมีและโตโยต้า <START>,<ATTRS>  <CONT_START> ยอดทั้งแชมีและโตโยต้า <START> ยอดทั้งแชมีและโตโยต้า
+<ATTRS> ไปกิน บ า บี <CONT_START> เรากอในกันไหม <START>,<ATTRS> ไปกิน บ า บี <CONT_START> เรากอในกันไหม <START> เราไปกินบาบีกอในกันไหม
+<ATTRS> ▁ สนใจ <CONT_START> ค่ามาริเอทีไฟ <START>,<ATTRS> ▁ สนใจ <CONT_START> ค่ามาริเอทีไฟ <START> สนใจค่ามาริเอทีไฟ
+<ATTRS> สู้ๆๆ <CONT_START> น้ะค้ะ😻 <START>,<ATTRS> สู้ๆๆ <CONT_START> น้ะค้ะ😻 <START> สู้ๆๆน้ะค้ะ😻
+<ATTRS> ▁อยากกิน <CONT_START> 285จัง👈 <START>,<ATTRS> ▁อยากกิน <CONT_START> 285จัง👈 <START> อยากกิน285จัง👈
+<ATTRS> น้ําลาย ไหล▁อยากกิน <CONT_START> ช้างน้ำลายไหล <START>,<ATTRS> น้ําลาย ไหล▁อยากกิน <CONT_START> ช้างน้ำลายไหล <START> อยากกินช้างน้ำลายไหล
+<ATTRS> ▁อยากกิน <CONT_START> นะแต่กลัว5 <START>,<ATTRS> ▁อยากกิน <CONT_START> นะแต่กลัว5 <START> อยากกินนะแต่กลัว5
+<ATTRS> ▁อยากกิน <CONT_START> บะหมี่หยกต้มยำ <START>,<ATTRS> ▁อยากกิน <CONT_START> บะหมี่หยกต้มยำ <START> อยากกินบะหมี่หยกต้มยำ
+<ATTRS> ▁อยากกิน <CONT_START> บาบีก้อนงะ🤣😅 <START>,<ATTRS> ▁อยากกิน <CONT_START> บาบีก้อนงะ🤣😅 <START> อยากกินบาบีก้อนงะ🤣😅
+<ATTRS> ▁อยากกินหิว เลยยย <CONT_START> สุกี้ <START>,<ATTRS> ▁อยากกินหิว เลยยย <CONT_START> สุกี้ <START> อยากกินสุกี้หิวเลยยย
+<ATTRS> ▁อยากกิน <CONT_START> เหมือนกับค่ะ😀 <START>,<ATTRS> ▁อยากกิน <CONT_START> เหมือนกับค่ะ😀 <START> อยากกินเหมือนกับค่ะ😀
+<ATTRS> ▁อยาก <CONT_START> จังเลยเจ้าขะอิสิ <START>,<ATTRS> ▁อยาก <CONT_START> จังเลยเจ้าขะอิสิ <START> อยากจังเลยเจ้าขะอิสิ
+<ATTRS> กุ้ง สด จังเลย <CONT_START> อยากให้มี <START>,<ATTRS> กุ้ง สด จังเลย <CONT_START> อยากให้มี <START> อยากให้มีกุ้งสดจังเลย
+<ATTRS> ▁ อร่อย <CONT_START> ทุกอย่างเลยเชียว <START>,<ATTRS> ▁ อร่อย <CONT_START> ทุกอย่างเลยเชียว <START> อร่อยทุกอย่างเลยเชียว
+<ATTRS> ถูก เว่อร์ <CONT_START> คองคอร์ดผ่อน <START>,<ATTRS> ถูก เว่อร์ <CONT_START> คองคอร์ดผ่อน <START> คองคอร์ดผ่อนถูกเว่อร์
+<ATTRS> อยาก 😏😩 <CONT_START> โอ๊ยน. <START>,<ATTRS> อยาก 😏😩 <CONT_START> โอ๊ยน. <START> โอ๊ยน.อยาก😏😩
+<ATTRS> 😍อยากกิน <CONT_START> น้ำสิงห์ <START>,<ATTRS> 😍อยากกิน <CONT_START> น้ำสิงห์ <START> 😍อยากกินน้ำสิงห์
+<ATTRS> วันนี้ เลย ดี <CONT_START> 5มะ😂 <START>,<ATTRS> วันนี้ เลย ดี <CONT_START> 5มะ😂 <START> 5วันนี้เลยดีมะ😂
+<ATTRS> love😍 <CONT_START> ในpajerosport <START>,<ATTRS> love😍 <CONT_START> ในpajerosport <START> loveในpajerosport😍
+<ATTRS> พาไปจัด <CONT_START> กลับเดี๋ยว😉 <START>,<ATTRS> พาไปจัด <CONT_START> กลับเดี๋ยว😉 <START> กลับเดี๋ยวพาไปจัด😉
+<ATTRS> กิน เอม เค 5 <CONT_START> ก่อน <START>,<ATTRS> กิน เอม เค 5 <CONT_START> ก่อน <START> ก่อนกินเอมเค5
+<ATTRS>  <CONT_START> กุกลับ25ทันอยู่ๆๆไปป่าว <START>,<ATTRS>  <CONT_START> กุกลับ25ทันอยู่ๆๆไปป่าว <START> กุกลับ25ทันอยู่ๆๆไปป่าว
+<ATTRS> ๆๆ ปิ้งย่างหอม ดี <CONT_START> แกนะๆๆ <START>,<ATTRS> ๆๆ ปิ้งย่างหอม ดี <CONT_START> แกนะๆๆ <START> แกๆๆปิ้งย่างนะๆๆหอมดี
+<ATTRS> ▁ขอบคุณ <CONT_START> ของรางวัลมากมะคะ <START>,<ATTRS> ▁ขอบคุณ <CONT_START> ของรางวัลมากมะคะ <START> ขอบคุณของรางวัลมากมะคะ
+<ATTRS> ▁ขอบคุณ <CONT_START> น่ะออเจ้า5ใน <START>,<ATTRS> ▁ขอบคุณ <CONT_START> น่ะออเจ้า5ใน <START> ขอบคุณน่ะออเจ้า5ใน
+<ATTRS> ▁ขอบคุณมากๆๆ เลยค่า <CONT_START> มาใน <START>,<ATTRS> ▁ขอบคุณมากๆๆ เลยค่า <CONT_START> มาใน <START> ขอบคุณมากๆๆเลยค่ามาใน
+<ATTRS> ▁ขอบคุณมาก <CONT_START> ๆๆเลยมะคะใน <START>,<ATTRS> ▁ขอบคุณมาก <CONT_START> ๆๆเลยมะคะใน <START> ขอบคุณมากๆๆเลยมะคะใน
+<ATTRS> อยากกิน <CONT_START> เค้านี้มากเลยยย <START>,<ATTRS> อยากกิน <CONT_START> เค้านี้มากเลยยย <START> เค้าอยากกินนี้มากเลยยย
+<ATTRS> ▁ จะกิน <CONT_START> ได้เนมะพร้าวด้วย <START>,<ATTRS> ▁ จะกิน <CONT_START> ได้เนมะพร้าวด้วย <START> จะกินได้เนมะพร้าวด้วย
+<ATTRS> ▁ จัดๆๆ มะ <CONT_START> วานไปมาแล้ว <START>,<ATTRS> ▁ จัดๆๆ มะ <CONT_START> วานไปมาแล้ว <START> จัดๆๆมะวานไปจัดมาแล้ว
+<ATTRS> ▁ชอบ <CONT_START> มากเลยน.เบียร์สิงห์ <START>,<ATTRS> ▁ชอบ <CONT_START> มากเลยน.เบียร์สิงห์ <START> ชอบมากเลยน.เบียร์สิงห์
+<ATTRS>  <CONT_START> ช้างเบียร์ฉันรักเธอจัง <START>,<ATTRS>  <CONT_START> ช้างเบียร์ฉันรักเธอจัง <START> ช้างเบียร์ฉันรักเธอจัง
+<ATTRS> อร่อยชอบ ๆๆ <CONT_START> ซุปนี้พ.ศ. <START>,<ATTRS> อร่อยชอบ ๆๆ <CONT_START> ซุปนี้พ.ศ. <START> ซุปนี้อร่อยพ.ศ.ชอบๆๆ
+<ATTRS> า บี ก้อน กันก่อน <CONT_START> ตามลาบนน <START>,<ATTRS> า บี ก้อน กันก่อน <CONT_START> ตามลาบนน <START> ตามลาบาบีก้อนกันก่อนนน
+<ATTRS> สวยมาก <CONT_START> เทรลเบลเซอร์ครับ <START>,<ATTRS> สวยมาก <CONT_START> เทรลเบลเซอร์ครับ <START> เทรลเบลเซอร์สวยมากครับ
+<ATTRS> น่ารักมากๆ <CONT_START> ๆจะเอาแค่นี้ <START>,<ATTRS> น่ารักมากๆ <CONT_START> ๆจะเอาแค่นี้ <START> น่ารักมากๆๆจะเอาแค่นี้
+<ATTRS> ▁น่า ลองไปลอง <CONT_START> งงกันนะแฟน <START>,<ATTRS> ▁น่า ลองไปลอง <CONT_START> งงกันนะแฟน <START> น่าลองงงไปลองกันนะแฟน
+<ATTRS>  <CONT_START> บาบิก้อนหรือไรก็ได้จ้า <START>,<ATTRS>  <CONT_START> บาบิก้อนหรือไรก็ได้จ้า <START> บาบิก้อนหรือไรก็ได้จ้า
+<ATTRS> ▁ ประทับใจ <CONT_START> ตั้งแต่เช็คอิน <START>,<ATTRS> ▁ ประทับใจ <CONT_START> ตั้งแต่เช็คอิน <START> ประทับใจตั้งแต่เช็คอิน
+<ATTRS> ▁ ไป <CONT_START> ๆๆยังมีเวลาอีกหลายวัน <START>,<ATTRS> ▁ ไป <CONT_START> ๆๆยังมีเวลาอีกหลายวัน <START> ไปๆๆยังมีเวลาอีกหลายวัน
+<ATTRS> ไปกัน <CONT_START> 😂หัวเท่าไรว่ะ <START>,<ATTRS> ไปกัน <CONT_START> 😂หัวเท่าไรว่ะ <START> ไปกัน😂หัวเท่าไรว่ะ
+<ATTRS> ▁ ไป <CONT_START> กีดกันนนนั่งรถเซน <START>,<ATTRS> ▁ ไป <CONT_START> กีดกันนนนั่งรถเซน <START> ไปกีดกันนนนั่งรถไปเซน
+<ATTRS> ไปกิน แทบทุก <CONT_START> อาทิตเลยค่ะ <START>,<ATTRS> ไปกิน แทบทุก <CONT_START> อาทิตเลยค่ะ <START> ไปกินแทบทุกอาทิตเลยค่ะ
+<ATTRS> ▁ ไปกิน😘 <CONT_START> มาเมื่อกี้คะ <START>,<ATTRS> ▁ ไปกิน😘 <CONT_START> มาเมื่อกี้คะ <START> ไปกินมาเมื่อกี้คะ😘
+<ATTRS> อร่อยมาก <CONT_START> ไปทานมาแรวงจ้า <START>,<ATTRS> อร่อยมาก <CONT_START> ไปทานมาแรวงจ้า <START> ไปทานมาแรวงจ้าอร่อยมาก
+<ATTRS> ดีที่สุด <CONT_START> แม่โขงแสงสี <START>,<ATTRS> ดีที่สุด <CONT_START> แม่โขงแสงสี <START> แม่โขงแสงสีดีที่สุด
+<ATTRS> ▁ ลองไปจัด <CONT_START> ดูมั้งจะดีมั้ย <START>,<ATTRS> ▁ ลองไปจัด <CONT_START> ดูมั้งจะดีมั้ย <START> ลองไปจัดดูมั้งจะดีมั้ย
+<ATTRS> ป่ะ <CONT_START> วันนี้ล่ะหิว5 <START>,<ATTRS> ป่ะ <CONT_START> วันนี้ล่ะหิว5 <START> วันนี้ป่ะล่ะหิว5
+<ATTRS> โลตัส นว นคร ใกล้ <CONT_START> สาขาสุด <START>,<ATTRS> โลตัส นว นคร ใกล้ <CONT_START> สาขาสุด <START> สาขาโลตัสนวนครใกล้สุด
+<ATTRS> สิ้นเดือน😁 <CONT_START> น่ะตัวเอง <START>,<ATTRS> สิ้นเดือน😁 <CONT_START> น่ะตัวเอง <START> สิ้นเดือนน่ะตัวเอง😁
+<ATTRS> เหย ดีเข้ มี ชีส สสจัดไป <CONT_START> ไป <START>,<ATTRS> เหย ดีเข้ มี ชีส สสจัดไป <CONT_START> ไป <START> เหยดีเข้มีชีสสสจัดไปไป
+<ATTRS> ▁อยากกิน <CONT_START> 🍜🍨🍤🍣🍚🍱🍲 <START>,<ATTRS> ▁อยากกิน <CONT_START> 🍜🍨🍤🍣🍚🍱🍲 <START> อยากกิน🍜🍨🍤🍣🍚🍱🍲
+<ATTRS> ▁อยากกิน <CONT_START> ในgriddleค่ะ <START>,<ATTRS> ▁อยากกิน <CONT_START> ในgriddleค่ะ <START> อยากกินในgriddleค่ะ
+<ATTRS> ▁อยากกินอยาก กก <CONT_START> เอ็มเค. <START>,<ATTRS> ▁อยากกินอยาก กก <CONT_START> เอ็มเค. <START> อยากกินเอ็มเค.อยากกก
+<ATTRS> ▁อยากกินลีโอ ๆๆ ไป <CONT_START> เบียร์ <START>,<ATTRS> ▁อยากกินลีโอ ๆๆ ไป <CONT_START> เบียร์ <START> อยากกินเบียร์ลีโอๆๆไป
+<ATTRS> ▁อยากกิน <CONT_START> สตอเบอรี่อัญชัน <START>,<ATTRS> ▁อยากกิน <CONT_START> สตอเบอรี่อัญชัน <START> อยากกินสตอเบอรี่อัญชัน
+<ATTRS> ▁อยากกิน <CONT_START> แสงสีอ่ะ5 <START>,<ATTRS> ▁อยากกิน <CONT_START> แสงสีอ่ะ5 <START> อยากกินแสงสีอ่ะ5
+<ATTRS> ▁อยากกิน๊ก ไป <CONT_START> อ่ะดิไม่ใน <START>,<ATTRS> ▁อยากกิน๊ก ไป <CONT_START> อ่ะดิไม่ใน <START> อยากกินอ่ะดิ๊กไปไม่ใน
+<ATTRS> ▁อยากกิน😊 <CONT_START> ที่แล้วอะ <START>,<ATTRS> ▁อยากกิน😊 <CONT_START> ที่แล้วอะ <START> อยากกินที่แล้วอะ😊
+<ATTRS> ▁อยากกินเอ็ม เค อีดอก หิว <CONT_START>  <START>,<ATTRS> ▁อยากกินเอ็ม เค อีดอก หิว <CONT_START>  <START> อยากกินเอ็มเคอีดอกหิว
+<ATTRS> ▁อยาก <CONT_START> แดกบาบีกอในเลยยาสาสส <START>,<ATTRS> ▁อยาก <CONT_START> แดกบาบีกอในเลยยาสาสส <START> อยากแดกบาบีกอในเลยยาสาสส
+<ATTRS> ▁อยาก <CONT_START> แดกบาบีก้อนโว้ยยืน <START>,<ATTRS> ▁อยาก <CONT_START> แดกบาบีก้อนโว้ยยืน <START> อยากแดกบาบีก้อนโว้ยยืน
+<ATTRS> ▁อยาก😘 <CONT_START> อยู่นานแล้วนิ <START>,<ATTRS> ▁อยาก😘 <CONT_START> อยู่นานแล้วนิ <START> อยากอยู่นานแล้วนิ😘
+<ATTRS> ▁อยาก <CONT_START> ไอติมสตอเบอรี่ด้วย <START>,<ATTRS> ▁อยาก <CONT_START> ไอติมสตอเบอรี่ด้วย <START> อยากไอติมสตอเบอรี่ด้วย
+<ATTRS> อร่อยมากๆๆ ให้ 10 <CONT_START> ใน1. <START>,<ATTRS> อร่อยมากๆๆ ให้ 10 <CONT_START> ใน1. <START> อร่อยมากๆๆให้10ใน1.
+<ATTRS> อร่อย <CONT_START> โฮกาเด้ในโรซี่สุด <START>,<ATTRS> อร่อย <CONT_START> โฮกาเด้ในโรซี่สุด <START> โฮกาเด้ในโรซี่อร่อยสุด
+<ATTRS> ส่ง ไว <CONT_START> ในลาซาด้าเค้าจริง <START>,<ATTRS> ส่ง ไว <CONT_START> ในลาซาด้าเค้าจริง <START> ในลาซาด้าเค้าส่งไวจริง
+<ATTRS> กด หัวใจ หน่อยครับ พี่น้อง <CONT_START>  <START>,<ATTRS> กด หัวใจ หน่อยครับ พี่น้อง <CONT_START>  <START> กดหัวใจหน่อยครับพี่น้อง
+<ATTRS> ขอบคุณมาก😘 <CONT_START> ก้อนนะฮ้าบบ <START>,<ATTRS> ขอบคุณมาก😘 <CONT_START> ก้อนนะฮ้าบบ <START> ก้อนขอบคุณมากนะฮ้าบบ😘
+<ATTRS> ขอบคุณนะ <CONT_START> คร้าบที่ผลักดัน <START>,<ATTRS> ขอบคุณนะ <CONT_START> คร้าบที่ผลักดัน <START> ขอบคุณนะคร้าบที่ผลักดัน
+<ATTRS> ▁ขอบคุณ <CONT_START> มะคะตามตั้งนาน <START>,<ATTRS> ▁ขอบคุณ <CONT_START> มะคะตามตั้งนาน <START> ขอบคุณมะคะตามตั้งนาน
+<ATTRS> อยากเจอ แท็กซี่ คัน นี้ <CONT_START> แง <START>,<ATTRS> อยากเจอ แท็กซี่ คัน นี้ <CONT_START> แง <START> แงอยากเจอแท็กซี่คันนี้
+<ATTRS>  <CONT_START> จาอาวjackdaniel <START>,<ATTRS>  <CONT_START> จาอาวjackdaniel <START> จาอาวjackdaniel
+<ATTRS> ▁ชอบ👍 <CONT_START> เลยnissangtr <START>,<ATTRS> ▁ชอบ👍 <CONT_START> เลยnissangtr <START> ชอบเลยnissangtr👍
+<ATTRS> ดีงามมาก ต้อง <CONT_START> รามอินทรา <START>,<ATTRS> ดีงามมาก ต้อง <CONT_START> รามอินทรา <START> ดีงามมากต้องรามอินทรา
+<ATTRS> มัน ดีนะ <CONT_START> ดื่มแบล็คมันคูลง <START>,<ATTRS> มัน ดีนะ <CONT_START> ดื่มแบล็คมันคูลง <START> ดื่มแบล็คมันคูลงมันดีนะ
+<ATTRS> สนับสนุน ค่ะ✌ <CONT_START> ถ้าดีน่า <START>,<ATTRS> สนับสนุน ค่ะ✌ <CONT_START> ถ้าดีน่า <START> ถ้าดีน่าสนับสนุนค่ะ✌
+<ATTRS> ถูกกว่า ใด ในโลกคุ้ม <CONT_START> มาก <START>,<ATTRS> ถูกกว่า ใด ในโลกคุ้ม <CONT_START> มาก <START> ถูกกว่าใดในโลกคุ้มมาก
+<ATTRS> ▁น่า แดก <CONT_START> อย่าไข่หวาน5 <START>,<ATTRS> ▁น่า แดก <CONT_START> อย่าไข่หวาน5 <START> น่าแดกอย่าไข่หวาน5
+<ATTRS> เห็นแล้ว น้ําลาย▁ ปะ <CONT_START> กันเห็นแล้วน้ำลายแตก <START>,<ATTRS> เห็นแล้ว น้ําลาย▁ ปะ <CONT_START> กันเห็นแล้วน้ำลายแตก <START> ปะกันเห็นแล้วน้ำลายแตก
+<ATTRS> ▁ ไปพร้อม <CONT_START> ๆๆกะนั้นม้ายา555 <START>,<ATTRS> ▁ ไปพร้อม <CONT_START> ๆๆกะนั้นม้ายา555 <START> ไปๆๆกะนั้นพร้อมม้ายา555
+<ATTRS> ▁ ไป <CONT_START> ๆๆแต่สิ้นนี้นะว่าไง <START>,<ATTRS> ▁ ไป <CONT_START> ๆๆแต่สิ้นนี้นะว่าไง <START> ไปๆๆแต่สิ้นนี้นะว่าไง
+<ATTRS> ▁ ไป <CONT_START> ค่ะโรง2ร้านสุดท้าย <START>,<ATTRS> ▁ ไป <CONT_START> ค่ะโรง2ร้านสุดท้าย <START> ไปค่ะโรง2ร้านสุดท้าย
+<ATTRS> ▁ ไป <CONT_START> ดิรออัลเล่า5 <START>,<ATTRS> ▁ ไป <CONT_START> ดิรออัลเล่า5 <START> ไปดิรออัลเล่า5
+<ATTRS> ▁ พร้อม <CONT_START> มากเบิกบานสองทุ่ม <START>,<ATTRS> ▁ พร้อม <CONT_START> มากเบิกบานสองทุ่ม <START> พร้อมมากเบิกบานสองทุ่ม
+<ATTRS> จัด <CONT_START> พาเก๊าไปหน่อย <START>,<ATTRS> จัด <CONT_START> พาเก๊าไปหน่อย <START> พาเก๊าไปจัดหน่อย
+<ATTRS> ▁ พาไป <CONT_START> ด่วนน่าพี่หมิว <START>,<ATTRS> ▁ พาไป <CONT_START> ด่วนน่าพี่หมิว <START> พาไปด่วนน่าพี่หมิว
+<ATTRS> เราจะ ไม่หยุด <CONT_START> ลงแล้วครับ <START>,<ATTRS> เราจะ ไม่หยุด <CONT_START> ลงแล้วครับ <START> ลงแล้วครับเราจะไม่หยุด
+<ATTRS>  <CONT_START> สนจัยแคมรี่กับแอคคอด <START>,<ATTRS>  <CONT_START> สนจัยแคมรี่กับแอคคอด <START> สนจัยแคมรี่กับแอคคอด
+<ATTRS> 😁 <CONT_START> หลังกลับจากเชียงใหม่ <START>,<ATTRS> 😁 <CONT_START> หลังกลับจากเชียงใหม่ <START> หลังกลับจากเชียงใหม่😁
+<ATTRS> หิว เป็ด <CONT_START> ย่างชวลิตชูชัย <START>,<ATTRS> หิว เป็ด <CONT_START> ย่างชวลิตชูชัย <START> หิวเป็ดย่างชวลิตชูชัย
+<ATTRS> ▁อยากกิน <CONT_START> ชีสเหมือนกับ5 <START>,<ATTRS> ▁อยากกิน <CONT_START> ชีสเหมือนกับ5 <START> อยากกินชีสเหมือนกับ5
+<ATTRS> ▁อยากกิน <CONT_START> น้ำน.สิงห์ไหม <START>,<ATTRS> ▁อยากกิน <CONT_START> น้ำน.สิงห์ไหม <START> อยากกินน้ำน.สิงห์ไหม
+<ATTRS> ▁อยากกินา ไปหน่อย <CONT_START> เลยยยพยย <START>,<ATTRS> ▁อยากกินา ไปหน่อย <CONT_START> เลยยยพยย <START> อยากกินเลยยยพาไปหน่อยยย
+<ATTRS> ต้องลองสักหน่อย <CONT_START> อย่างนี้ <START>,<ATTRS> ต้องลองสักหน่อย <CONT_START> อย่างนี้ <START> อย่างนี้ต้องลองสักหน่อย
+<ATTRS> เอาใจช่วย <CONT_START> อยู่ภูเก็ตครับ <START>,<ATTRS> เอาใจช่วย <CONT_START> อยู่ภูเก็ตครับ <START> อยู่ภูเก็ตเอาใจช่วยครับ
+<ATTRS> เยี่ยม <CONT_START> ไฮลักรีโว่จริง <START>,<ATTRS> เยี่ยม <CONT_START> ไฮลักรีโว่จริง <START> ไฮลักรีโว่เยี่ยมจริง
+<ATTRS> ก็สวย <CONT_START> ในในแต่งครับแรงด้วย <START>,<ATTRS> ก็สวย <CONT_START> ในในแต่งครับแรงด้วย <START> ในในแต่งก็สวยครับแรงด้วย
+<ATTRS> ชอบ😁 <CONT_START> กุเบียร์ช้าง... <START>,<ATTRS> ชอบ😁 <CONT_START> กุเบียร์ช้าง... <START> กุชอบเบียร์ช้าง...😁
+<ATTRS> ผ่านไป ได้ <CONT_START> ให้ด้วยครับ <START>,<ATTRS> ผ่านไป ได้ <CONT_START> ให้ด้วยครับ <START> ให้ผ่านไปได้ด้วยครับ
+<ATTRS> ดี อะ <CONT_START> คริสต์มาสสีโนวงคือ <START>,<ATTRS> ดี อะ <CONT_START> คริสต์มาสสีโนวงคือ <START> คริสต์มาสสีโนวงคือดีอะ
+<ATTRS> ชอบ <CONT_START> เค้าคอสีลุคฮะปิดกว่า <START>,<ATTRS> ชอบ <CONT_START> เค้าคอสีลุคฮะปิดกว่า <START> เค้าชอบคอสีลุคฮะปิดกว่า
+<ATTRS> ▁ชอบติดทนนาน <CONT_START> ๆๆหน้าเนียนใส <START>,<ATTRS> ▁ชอบติดทนนาน <CONT_START> ๆๆหน้าเนียนใส <START> ชอบๆๆติดทนนานหน้าเนียนใส
+<ATTRS> เอา ด้วย <CONT_START> ดันน.ๆๆครับน. <START>,<ATTRS> เอา ด้วย <CONT_START> ดันน.ๆๆครับน. <START> ดันน.ๆๆครับน.เอาด้วย
+<ATTRS> จัด <CONT_START> เดี๋ยวว่างๆๆไปเยอะๆๆๆ <START>,<ATTRS> จัด <CONT_START> เดี๋ยวว่างๆๆไปเยอะๆๆๆ <START> เดี๋ยวว่างๆๆไปจัดเยอะๆๆๆ
+<ATTRS> น่ารักมาก😍 <CONT_START> น้องเลยค่ะ <START>,<ATTRS> น่ารักมาก😍 <CONT_START> น้องเลยค่ะ <START> น้องน่ารักมากเลยค่ะ😍
+<ATTRS> น้ําไหล แรง ดี <CONT_START> น้ำไหลแรงดีมีน้ำอ่อนให้ <START>,<ATTRS> น้ําไหล แรง ดี <CONT_START> น้ำไหลแรงดีมีน้ำอ่อนให้ <START> น้ำไหลแรงดีมีน้ำอ่อนให้
+<ATTRS> ที่ประชาชน ต้องการ <CONT_START> นี่ล่ะ <START>,<ATTRS> ที่ประชาชน ต้องการ <CONT_START> นี่ล่ะ <START> นี่ล่ะที่ประชาชนต้องการ
+<ATTRS> ▁ ป่ะ <CONT_START> มะต้องรอวันพุธและใน <START>,<ATTRS> ▁ ป่ะ <CONT_START> มะต้องรอวันพุธและใน <START> ป่ะมะต้องรอวันพุธและใน
+<ATTRS> ไปกิน บา บี ก้อน กัน <CONT_START> มั้ยล่ะใน <START>,<ATTRS> ไปกิน บา บี ก้อน กัน <CONT_START> มั้ยล่ะใน <START> ไปกินบาบีก้อนกันมั้ยล่ะใน
+<ATTRS> ▁ ไปกันเถอะพรุ่งนี้ <CONT_START> วันนี้ <START>,<ATTRS> ▁ ไปกันเถอะพรุ่งนี้ <CONT_START> วันนี้ <START> ไปวันนี้กันเถอะพรุ่งนี้
+<ATTRS> ▁ พร้อมรอ กิน <CONT_START> !!!นอนเก็บแรง <START>,<ATTRS> ▁ พร้อมรอ กิน <CONT_START> !!!นอนเก็บแรง <START> พร้อม!!!นอนเก็บแรงรอกิน
+<ATTRS> ▁ พาไปกิน หน่อย <CONT_START> น้าปั๋ววว <START>,<ATTRS> ▁ พาไปกิน หน่อย <CONT_START> น้าปั๋ววว <START> พาไปกินหน่อยน้าปั๋ววว
+<ATTRS> า ไปหน่อย😁 <CONT_START> พี่อยากลองพ <START>,<ATTRS> า ไปหน่อย😁 <CONT_START> พี่อยากลองพ <START> พี่อยากลองพาไปหน่อย😁
+<ATTRS> อยากกินมา สัก ที่ <CONT_START> เพื่อนอะ <START>,<ATTRS> อยากกินมา สัก ที่ <CONT_START> เพื่อนอะ <START> เพื่อนอยากกินอะมาสักที่
+<ATTRS> ชอบ <CONT_START> เมนูฮิตที่ในทุกหนครับ <START>,<ATTRS> ชอบ <CONT_START> เมนูฮิตที่ในทุกหนครับ <START> เมนูฮิตที่ในทุกหนชอบครับ
+<ATTRS> อยากกิน <CONT_START> ลูก🤣👼🏻👼🏻👼🏻 <START>,<ATTRS> อยากกิน <CONT_START> ลูก🤣👼🏻👼🏻👼🏻 <START> ลูกอยากกิน🤣👼🏻👼🏻👼🏻
+<ATTRS>  <CONT_START> เลิกม้วนได้เพราะไฟฟ้าเลย <START>,<ATTRS>  <CONT_START> เลิกม้วนได้เพราะไฟฟ้าเลย <START> เลิกม้วนได้เพราะไฟฟ้าเลย
+"<ATTRS> 10 สีสวย <CONT_START> สั่งแล้วค่า05, <START>","<ATTRS> 10 สีสวย <CONT_START> สั่งแล้วค่า05, <START> สั่งแล้วค่า05,10สีสวย"
+<ATTRS> สู้ๆๆมันต้องมี <CONT_START> ครับฉันนั้น <START>,<ATTRS> สู้ๆๆมันต้องมี <CONT_START> ครับฉันนั้น <START> สู้ๆๆครับมันต้องมีฉันนั้น
+<ATTRS> กําลังใจสู้ๆๆ <CONT_START> คับเป็นกำลังใจให้คับ <START>,<ATTRS> กําลังใจสู้ๆๆ <CONT_START> คับเป็นกำลังใจให้คับ <START> สู้ๆๆคับเป็นกำลังใจให้คับ
+<ATTRS> สู้ๆๆเอาใจช่วย <CONT_START> นะครับครับ <START>,<ATTRS> สู้ๆๆเอาใจช่วย <CONT_START> นะครับครับ <START> สู้ๆๆนะครับเอาใจช่วยครับ
+<ATTRS> อร่อยฟิน <CONT_START> หมี่หยกก็แสนยาน์ <START>,<ATTRS> อร่อยฟิน <CONT_START> หมี่หยกก็แสนยาน์ <START> หมี่หยกก็แสนอร่อยยาฟินน์
+<ATTRS> ▁อยากกิน <CONT_START> ในด้วยวันนี้อะ <START>,<ATTRS> ▁อยากกิน <CONT_START> ในด้วยวันนี้อะ <START> อยากกินในด้วยวันนี้อะ
+<ATTRS> ▁อยากกิน <CONT_START> บาบีก้อนคัดเซตหมู <START>,<ATTRS> ▁อยากกิน <CONT_START> บาบีก้อนคัดเซตหมู <START> อยากกินบาบีก้อนคัดเซตหมู
+<ATTRS> ▁อยากกิน <CONT_START> บาบีก้อนหรอ5 <START>,<ATTRS> ▁อยากกิน <CONT_START> บาบีก้อนหรอ5 <START> อยากกินบาบีก้อนหรอ5
+<ATTRS> ▁อยากกิน <CONT_START> ฮอตพอตนจีนเด้อ <START>,<ATTRS> ▁อยากกิน <CONT_START> ฮอตพอตนจีนเด้อ <START> อยากกินฮอตพอตนจีนเด้อ
+<ATTRS> ▁อยาก <CONT_START> โดนชีส <START>,<ATTRS> ▁อยาก <CONT_START> โดนชีส <START> อยากโดนชีส
+<ATTRS> ▁อยากไป <CONT_START> กินจุเบยหาแนวร่วม <START>,<ATTRS> ▁อยากไป <CONT_START> กินจุเบยหาแนวร่วม <START> อยากไปกินจุเบยหาแนวร่วม
+<ATTRS> อยากกิน <CONT_START> อาหมีรอบเช้าอ่ะ <START>,<ATTRS> อยากกิน <CONT_START> อาหมีรอบเช้าอ่ะ <START> อาหมีรอบเช้าอยากกินอ่ะ
+<ATTRS> เอ็ม เค กันนะ <CONT_START>  <START>,<ATTRS> เอ็ม เค กันนะ <CONT_START>  <START> เอ็มเคกันนะ
+<ATTRS> รถ ดีนะ <CONT_START> teanaผมเคยใช้ใน32 <START>,<ATTRS> รถ ดีนะ <CONT_START> teanaผมเคยใช้ใน32 <START> teanaรถดีนะผมเคยใช้ใน32
+<ATTRS> มา มาขอบคุน <CONT_START> ค่ะไซวานค่ะคร้า <START>,<ATTRS> มา มาขอบคุน <CONT_START> ค่ะไซวานค่ะคร้า <START> ค่ะไซมามาวานค่ะขอบคุนคร้า
+<ATTRS> สะอาด <CONT_START> เงียบกว้างส่วนตัว <START>,<ATTRS> สะอาด <CONT_START> เงียบกว้างส่วนตัว <START> เงียบกว้างสะอาดส่วนตัว
+<ATTRS> ก็ต่อเมื่อ กิน เอ็ม เค <CONT_START> จะโอ๊ค <START>,<ATTRS> ก็ต่อเมื่อ กิน เอ็ม เค <CONT_START> จะโอ๊ค <START> จะโอ๊คก็ต่อเมื่อกินเอ็มเค
+<ATTRS> ใน ของเค้า ดี จิง <CONT_START> ดีแม็คจิง <START>,<ATTRS> ใน ของเค้า ดี จิง <CONT_START> ดีแม็คจิง <START> ดีแม็คจิงในของเค้าดีจิง
+<ATTRS> ดี เรย ที่รัก <CONT_START> ขอเป็ดด้วยน่ะ <START>,<ATTRS> ดี เรย ที่รัก <CONT_START> ขอเป็ดด้วยน่ะ <START> ดีเรยที่รักขอเป็ดด้วยน่ะ
+<ATTRS> ทิน จะ ไปกิน <CONT_START> เดือนไหนแจกปิ <START>,<ATTRS> ทิน จะ ไปกิน <CONT_START> เดือนไหนแจกปิ <START> เดือนไหนแจกปิทินจะไปกิน
+<ATTRS> อร่อย <CONT_START> ไดซาชิเถอะกว่าจี <START>,<ATTRS> อร่อย <CONT_START> ไดซาชิเถอะกว่าจี <START> ไดซาชิเถอะอร่อยกว่าจี
+<ATTRS> ขอบคุณ <CONT_START> ได้แล้วค่ะจะร้าใน <START>,<ATTRS> ขอบคุณ <CONT_START> ได้แล้วค่ะจะร้าใน <START> ได้แล้วค่ะขอบคุณจะร้าใน
+<ATTRS> ยินดี <CONT_START> ได้เลยครับผมให้ครับ <START>,<ATTRS> ยินดี <CONT_START> ได้เลยครับผมให้ครับ <START> ได้เลยครับผมยินดีให้ครับ
+<ATTRS>  <CONT_START> ถ้าบุเฟ่ก็ต้องไปบาบิก้อน <START>,<ATTRS>  <CONT_START> ถ้าบุเฟ่ก็ต้องไปบาบิก้อน <START> ถ้าบุเฟ่ก็ต้องไปบาบิก้อน
+<ATTRS> ต้องจัดชอบ <CONT_START> แค่นี้ชีส <START>,<ATTRS> ต้องจัดชอบ <CONT_START> แค่นี้ชีส <START> แค่นี้ต้องจัดชอบชีส
+<ATTRS> ไปกัน <CONT_START> เรามันสาวกพี่ก้อนนน <START>,<ATTRS> ไปกัน <CONT_START> เรามันสาวกพี่ก้อนนน <START> ไปกันเรามันสาวกพี่ก้อนนน
+<ATTRS> ▁ ไปกิน <CONT_START> ขนมฉันนั้นกัน5 <START>,<ATTRS> ▁ ไปกิน <CONT_START> ขนมฉันนั้นกัน5 <START> ไปกินขนมฉันนั้นกัน5
+<ATTRS> ▁พรุ่งนี้พาไปกิน หน่อย <CONT_START> น้ามา <START>,<ATTRS> ▁พรุ่งนี้พาไปกิน หน่อย <CONT_START> น้ามา <START> พรุ่งนี้พาไปกินหน่อยน้ามา
+<ATTRS> 😍 <CONT_START> เมนูใหม่มาแล้ว <START>,<ATTRS> 😍 <CONT_START> เมนูใหม่มาแล้ว <START> เมนูใหม่มาแล้ว😍
+<ATTRS> สวยมากๆ <CONT_START> รถchrโตโยต้าๆครับ <START>,<ATTRS> สวยมากๆ <CONT_START> รถchrโตโยต้าๆครับ <START> รถchrโตโยต้าสวยมากๆๆครับ
+<ATTRS> อร่อยชอบ ๆๆ <CONT_START> ลองแล้วรสนี้พ.ศ. <START>,<ATTRS> อร่อยชอบ ๆๆ <CONT_START> ลองแล้วรสนี้พ.ศ. <START> ลองแล้วรสนี้อร่อยพ.ศ.ชอบๆๆ
+<ATTRS> ไปกิน บา บี ก้อน กัน <CONT_START> ว่างมั้ย <START>,<ATTRS> ไปกิน บา บี ก้อน กัน <CONT_START> ว่างมั้ย <START> ว่างมั้ยไปกินบาบีก้อนกัน
+<ATTRS>  <CONT_START> หลับสบายแบบใหม่ต้องนี่เลย <START>,<ATTRS>  <CONT_START> หลับสบายแบบใหม่ต้องนี่เลย <START> หลับสบายแบบใหม่ต้องนี่เลย
+<ATTRS> อร่อย <CONT_START> ฉากใหญ่ก็เบียร์จ๊ะ <START>,<ATTRS> อร่อย <CONT_START> ฉากใหญ่ก็เบียร์จ๊ะ <START> ฉากใหญ่ก็เบียร์อร่อยจ๊ะ
+<ATTRS> ▁อยากกิน <CONT_START> ช้างขึ้นมาทันทีเลย <START>,<ATTRS> ▁อยากกิน <CONT_START> ช้างขึ้นมาทันทีเลย <START> อยากกินช้างขึ้นมาทันทีเลย
+<ATTRS> ▁อยากกิน <CONT_START> นมสตรออัญชันอ่ะ <START>,<ATTRS> ▁อยากกิน <CONT_START> นมสตรออัญชันอ่ะ <START> อยากกินนมสตรออัญชันอ่ะ
+<ATTRS> ▁อยากกิน <CONT_START> ลีโอเว้ย5 <START>,<ATTRS> ▁อยากกิน <CONT_START> ลีโอเว้ย5 <START> อยากกินลีโอเว้ย5
+<ATTRS> ▁อยากกิน😍 <CONT_START> เลี้ยงหน่อยค่ะ😌 <START>,<ATTRS> ▁อยากกิน😍 <CONT_START> เลี้ยงหน่อยค่ะ😌 <START> อยากกินเลี้ยงหน่อยค่ะ😌😍
+<ATTRS> ▁อยากกินซะ ใจ <CONT_START> อีกยังไม่ <START>,<ATTRS> ▁อยากกินซะ ใจ <CONT_START> อีกยังไม่ <START> อยากกินอีกยังไม่ซะใจ
+<ATTRS> ▁อยากกิน <CONT_START> ไอติมรสช้าฃารสลีโอ <START>,<ATTRS> ▁อยากกิน <CONT_START> ไอติมรสช้าฃารสลีโอ <START> อยากกินไอติมรสช้าฃารสลีโอ
+<ATTRS> 😂 ไปกิน <CONT_START> ไอบ้าฮอตพอทำกันนน <START>,<ATTRS> 😂 ไปกิน <CONT_START> ไอบ้าฮอตพอทำกันนน <START> ไอบ้า😂ไปกินฮอตพอทำกันนน
+<ATTRS> คุ้มจัด ๆๆ <CONT_START> ในกินเปนชุดกว่าเยอะ <START>,<ATTRS> คุ้มจัด ๆๆ <CONT_START> ในกินเปนชุดกว่าเยอะ <START> ในกินเปนชุดคุ้มกว่าเยอะจัดๆๆ
+<ATTRS> ชอบ <CONT_START> ในในในในในparisเหมือนกับ <START>,<ATTRS> ชอบ <CONT_START> ในในในในในparisเหมือนกับ <START> ในในในในในparisชอบเหมือนกับ
+<ATTRS> ๆๆ หวานๆหอม เนื้อ <CONT_START> ขาวๆๆแดงๆปู <START>,<ATTRS> ๆๆ หวานๆหอม เนื้อ <CONT_START> ขาวๆๆแดงๆปู <START> ขาวๆๆแดงๆๆหวานๆๆหอมเนื้อปู
+<ATTRS>  <CONT_START> คิดไม่ผิดน.ที่เลือกน.รีโว่ <START>,<ATTRS>  <CONT_START> คิดไม่ผิดน.ที่เลือกน.รีโว่ <START> คิดไม่ผิดน.ที่เลือกน.รีโว่
+<ATTRS> คุ้มและ อิ่ม ท้องอร่อยมาก <CONT_START> ๆๆคะ <START>,<ATTRS> คุ้มและ อิ่ม ท้องอร่อยมาก <CONT_START> ๆๆคะ <START> คุ้มและอิ่มท้องอร่อยมากๆๆคะ
+<ATTRS> ไปกิน ยุ <CONT_START> จ้ายังไงก็จะยังน่ะ <START>,<ATTRS> ไปกิน ยุ <CONT_START> จ้ายังไงก็จะยังน่ะ <START> จ้ายังไงก็จะยังไปกินยุน่ะ
+<ATTRS> ▁ชอบเมื่อไร ได้กิน <CONT_START> แบบธรรมดา <START>,<ATTRS> ▁ชอบเมื่อไร ได้กิน <CONT_START> แบบธรรมดา <START> ชอบแบบธรรมดาเมื่อไรได้กิน
+<ATTRS> สุดยอด <CONT_START> น.เหล่านี้isuzuครับ <START>,<ATTRS> สุดยอด <CONT_START> น.เหล่านี้isuzuครับ <START> น.เหล่านี้isuzuสุดยอดครับ
+<ATTRS>  <CONT_START> นุ่มลุ่มลึกกูบอกได้แค่นี้ <START>,<ATTRS>  <CONT_START> นุ่มลุ่มลึกกูบอกได้แค่นี้ <START> นุ่มลุ่มลึกกูบอกได้แค่นี้
+<ATTRS> ได้ คําเดียว ว่าอร่อยมาก <CONT_START> บอกได้คำเดียวว่าน. <START>,<ATTRS> ได้ คําเดียว ว่าอร่อยมาก <CONT_START> บอกได้คำเดียวว่าน. <START> บอกได้คำเดียวว่าน.อร่อยมาก
+<ATTRS>  <CONT_START> บุเฟ่ปิ้งย่างบาบีก้อนนน <START>,<ATTRS>  <CONT_START> บุเฟ่ปิ้งย่างบาบีก้อนนน <START> บุเฟ่ปิ้งย่างบาบีก้อนนน
+<ATTRS> มีความสุข <CONT_START> เบียร์ช้างกินแล้ว <START>,<ATTRS> มีความสุข <CONT_START> เบียร์ช้างกินแล้ว <START> เบียร์ช้างกินแล้วมีความสุข
+<ATTRS> ▁ ปะพาไป กิน <CONT_START> เดี๋ยวอาทิตย์นี้ <START>,<ATTRS> ▁ ปะพาไป กิน <CONT_START> เดี๋ยวอาทิตย์นี้ <START> ปะเดี๋ยวอาทิตย์นี้พาไปกิน
+<ATTRS> ▁ ไป <CONT_START> กีดกันมะหลังเบิกบานชิว <START>,<ATTRS> ▁ ไป <CONT_START> กีดกันมะหลังเบิกบานชิว <START> ไปกีดกันมะหลังเบิกบานชิว
+<ATTRS> ▁ ไปด้วยอยากกิน <CONT_START> 555บาบีก้อน <START>,<ATTRS> ▁ ไปด้วยอยากกิน <CONT_START> 555บาบีก้อน <START> ไปด้วย555อยากกินบาบีก้อน
+<ATTRS> ไปกัน▁ ไป <CONT_START> วันเสาร์กันนัดอุ๋มแล้ว <START>,<ATTRS> ไปกัน▁ ไป <CONT_START> วันเสาร์กันนัดอุ๋มแล้ว <START> ไปวันเสาร์ไปกันนัดอุ๋มแล้ว
+<ATTRS> ▁พรุ่งนี้ไปอีก กิน <CONT_START> เลี้ยงแผนก <START>,<ATTRS> ▁พรุ่งนี้ไปอีก กิน <CONT_START> เลี้ยงแผนก <START> พรุ่งนี้ไปอีกกินเลี้ยงแผนก
+<ATTRS> อะ ไปกินเอม เค กัน <CONT_START> พอๆๆกะมึงไหม <START>,<ATTRS> อะ ไปกินเอม เค กัน <CONT_START> พอๆๆกะมึงไหม <START> พอๆๆกะมึงอะไปกินเอมเคกันไหม
+<ATTRS> อร่อย <CONT_START> มันขมไปพานาคอตต้าสุด <START>,<ATTRS> อร่อย <CONT_START> มันขมไปพานาคอตต้าสุด <START> มันขมไปพานาคอตต้าอร่อยสุด
+<ATTRS> เต็มที่ ครับ <CONT_START> ร่วมผลักดันด้วย <START>,<ATTRS> เต็มที่ ครับ <CONT_START> ร่วมผลักดันด้วย <START> ร่วมผลักดันด้วยเต็มที่ครับ
+<ATTRS> ▁วันนี้ เลยปะ😁 <CONT_START> ล่ะน.เลิก5โมง <START>,<ATTRS> ▁วันนี้ เลยปะ😁 <CONT_START> ล่ะน.เลิก5โมง <START> วันนี้เลยปะล่ะน.เลิก5โมง😁
+<ATTRS> ▁ว้าว <CONT_START> ๆๆห่ากินทั้งสามรสเลยอะ <START>,<ATTRS> ▁ว้าว <CONT_START> ๆๆห่ากินทั้งสามรสเลยอะ <START> ว้าวๆๆห่ากินทั้งสามรสเลยอะ
+<ATTRS> สวยจัง <CONT_START> โบราณแบบmodern5 <START>,<ATTRS> สวยจัง <CONT_START> โบราณแบบmodern5 <START> สวยจังโบราณแบบmodern5
+<ATTRS> กําลังใจสู้ๆๆ <CONT_START> ครับเป็นกำลังใจไห้ครับ <START>,<ATTRS> กําลังใจสู้ๆๆ <CONT_START> ครับเป็นกำลังใจไห้ครับ <START> สู้ๆๆครับเป็นกำลังใจไห้ครับ
+<ATTRS> รัก รี โว่ <CONT_START> เสียงหนิงมาก.น.มาก <START>,<ATTRS> รัก รี โว่ <CONT_START> เสียงหนิงมาก.น.มาก <START> เสียงหนิงมาก.น.รักรีโว่มาก
+<ATTRS> อยากกิน <CONT_START> อดไรอ่ะบาบีก้อน😔 <START>,<ATTRS> อยากกิน <CONT_START> อดไรอ่ะบาบีก้อน😔 <START> อดไรอ่ะอยากกินบาบีก้อน😔
+<ATTRS> ▁อยากกิน <CONT_START> แสงสีแท้คือสิเมาดี <START>,<ATTRS> ▁อยากกิน <CONT_START> แสงสีแท้คือสิเมาดี <START> อยากกินแสงสีแท้คือสิเมาดี
+<ATTRS> ▁อยากกินต้องไป โดน <CONT_START> อยู่วันนี้ <START>,<ATTRS> ▁อยากกินต้องไป โดน <CONT_START> อยู่วันนี้ <START> อยากกินอยู่วันนี้ต้องไปโดน
+<ATTRS> ▁อยากกิน <CONT_START> อ่ะ😭🤤 <START>,<ATTRS> ▁อยากกิน <CONT_START> อ่ะ😭🤤 <START> อยากกินอ่ะ😭🤤
+<ATTRS> ▁อยากกิน <CONT_START> ฮอตพอตนวันพุธลด20ใน <START>,<ATTRS> ▁อยากกิน <CONT_START> ฮอตพอตนวันพุธลด20ใน <START> อยากกินฮอตพอตนวันพุธลด20ใน
+<ATTRS> ▁อยาก <CONT_START> แดกใอ่สัส!!งงพ่อลงอ่า <START>,<ATTRS> ▁อยาก <CONT_START> แดกใอ่สัส!!งงพ่อลงอ่า <START> อยากแดกใอ่สัส!!งงพ่อลงอ่า
+<ATTRS> ▁อยากไป <CONT_START> ไมอามี่ขึ้นมาทันที <START>,<ATTRS> ▁อยากไป <CONT_START> ไมอามี่ขึ้นมาทันที <START> อยากไปไมอามี่ขึ้นมาทันที
+<ATTRS> ▁อยาก <CONT_START> สุพรรณมีเตาย่างบ้างจัง <START>,<ATTRS> ▁อยาก <CONT_START> สุพรรณมีเตาย่างบ้างจัง <START> อยากสุพรรณมีเตาย่างบ้างจัง
+<ATTRS> มั่ก <CONT_START> เอ็มเคกับโดมิโนเลดี้ <START>,<ATTRS> มั่ก <CONT_START> เอ็มเคกับโดมิโนเลดี้ <START> เอ็มเคกับโดมิโนเลดี้มั่ก
+<ATTRS> dc งาน ดี👍 <CONT_START> showเราเคยยย <START>,<ATTRS> dc งาน ดี👍 <CONT_START> showเราเคยยย <START> showdcงานดีเราเคยยย👍👍👍
+<ATTRS> ▁ขอบคุณ <CONT_START> ล่วงหน้าที่เลี้ยงใน <START>,<ATTRS> ▁ขอบคุณ <CONT_START> ล่วงหน้าที่เลี้ยงใน <START> ขอบคุณล่วงหน้าที่เลี้ยงใน
+<ATTRS> ให้ ผ่านไปด้วย <CONT_START> ลุล่วงครับ <START>,<ATTRS> ให้ ผ่านไปด้วย <CONT_START> ลุล่วงครับ <START> ให้ผ่านลุล่วงไปด้วยครับ
+<ATTRS> ครอบครัว ที่ สมควร สมัครที่สุด <CONT_START>  <START>,<ATTRS> ครอบครัว ที่ สมควร สมัครที่สุด <CONT_START>  <START> ครอบครัวที่สมควรสมัครที่สุด
+<ATTRS> ▁คิด ถูก คับ <CONT_START> ที่กินลีโอคูมื้อ55 <START>,<ATTRS> ▁คิด ถูก คับ <CONT_START> ที่กินลีโอคูมื้อ55 <START> คิดถูกคับที่กินลีโอคูมื้อ55
+<ATTRS> ▁ชอบอร่อยดี <CONT_START> เกี๊ยวซ่าอ่ะก้อน <START>,<ATTRS> ▁ชอบอร่อยดี <CONT_START> เกี๊ยวซ่าอ่ะก้อน <START> ชอบเกี๊ยวซ่าอ่ะก้อนอร่อยดี
+<ATTRS> ไม่ เหม็น <CONT_START> กว่าบุหรี่มวนอีก <START>,<ATTRS> ไม่ เหม็น <CONT_START> กว่าบุหรี่มวนอีก <START> กว่าบุหรี่มวนอีกไม่เหม็น
+<ATTRS> ต้องจัดปะ <CONT_START> สาขาลำลูกกาคลอง2มี <START>,<ATTRS> ต้องจัดปะ <CONT_START> สาขาลำลูกกาคลอง2มี <START> ต้องจัดสาขาลำลูกกาคลอง2มีปะ
+<ATTRS>  <CONT_START> ถ้าถูกจะเลี้ยงเอ็มเคแคบเลย <START>,<ATTRS>  <CONT_START> ถ้าถูกจะเลี้ยงเอ็มเคแคบเลย <START> ถ้าถูกจะเลี้ยงเอ็มเคแคบเลย
+<ATTRS> ดีงาม <CONT_START> น้ำจิ้มโชยุไต้หวันมาก <START>,<ATTRS> ดีงาม <CONT_START> น้ำจิ้มโชยุไต้หวันมาก <START> น้ำจิ้มโชยุไต้หวันดีงามมาก
+<ATTRS> อร่อยมาก <CONT_START> น้ำมะพร้าวอัญชันคับ <START>,<ATTRS> อร่อยมาก <CONT_START> น้ำมะพร้าวอัญชันคับ <START> น้ำมะพร้าวอัญชันอร่อยมากคับ
+<ATTRS> อยากกิน <CONT_START> บาบีก้อนก็อีเหี้ยยย <START>,<ATTRS> อยากกิน <CONT_START> บาบีก้อนก็อีเหี้ยยย <START> บาบีก้อนก็อยากกินอีเหี้ยยย
+<ATTRS> บุหรี่ ไฟฟ้า น่า กว่า <CONT_START> จริง <START>,<ATTRS> บุหรี่ ไฟฟ้า น่า กว่า <CONT_START> จริง <START> บุหรี่ไฟฟ้าน่ากว่าจริง
+<ATTRS> ๆๆ เราไป▁ ไปพร้อม <CONT_START> ๆๆเรากันนนเราเสมอ <START>,<ATTRS> ๆๆ เราไป▁ ไปพร้อม <CONT_START> ๆๆเรากันนนเราเสมอ <START> ไปๆๆเราไปกันนนเราพร้อมเสมอ
+<ATTRS> ▁ ไป <CONT_START> ไงพุธหน้าเลิก3ทุ่มรอนะ <START>,<ATTRS> ▁ ไป <CONT_START> ไงพุธหน้าเลิก3ทุ่มรอนะ <START> ไปไงพุธหน้าเลิก3ทุ่มรอนะ
+<ATTRS> ▁ ไปเลยคุ้มค่า <CONT_START> 555โคตร <START>,<ATTRS> ▁ ไปเลยคุ้มค่า <CONT_START> 555โคตร <START> ไปเลย555โคตรคุ้มค่า
+<ATTRS> ได้ เพราะ บุหรี่ ไฟฟ้า <CONT_START> ผมก็เลิก <START>,<ATTRS> ได้ เพราะ บุหรี่ ไฟฟ้า <CONT_START> ผมก็เลิก <START> ผมก็เลิกได้เพราะบุหรี่ไฟฟ้า
+<ATTRS> ลงชื่อเอาใจช่วย <CONT_START> ผมนานละครับ <START>,<ATTRS> ลงชื่อเอาใจช่วย <CONT_START> ผมนานละครับ <START> ผมลงชื่อนานละเอาใจช่วยครับ
+<ATTRS> ผ่าน คับสู้ๆๆ <CONT_START> ผ่านขอไห้ <START>,<ATTRS> ผ่าน คับสู้ๆๆ <CONT_START> ผ่านขอไห้ <START> ผ่านขอไห้ผ่านคับสู้ๆๆ
+<ATTRS> ▁ พาไปกิน หน่อย☺ ️😊 <CONT_START> จิน้าๆๆ <START>,<ATTRS> ▁ พาไปกิน หน่อย☺ ️😊 <CONT_START> จิน้าๆๆ <START> พาไปกินหน่อยจิน้าๆๆ☺️😊
+<ATTRS> สวยน่าทานมากๆๆ เลยค่ะ <CONT_START> ภาพใน <START>,<ATTRS> สวยน่าทานมากๆๆ เลยค่ะ <CONT_START> ภาพใน <START> ภาพสวยน่าทานมากๆๆเลยค่ะใน
+<ATTRS> ฝีมือ จะ กาก แต่มี <CONT_START> แม้ดวงกิกะ <START>,<ATTRS> ฝีมือ จะ กาก แต่มี <CONT_START> แม้ดวงกิกะ <START> แม้ฝีมือจะกากแต่มีดวงกิกะ
+<ATTRS> ไปลอง <CONT_START> เย็นนี้กันมั้ยกินเบาๆๆ <START>,<ATTRS> ไปลอง <CONT_START> เย็นนี้กันมั้ยกินเบาๆๆ <START> เย็นนี้ไปลองกันมั้ยกินเบาๆๆ
+<ATTRS> สวยมากๆ <CONT_START> รถๆเลยค่ะในtoyotabuzz <START>,<ATTRS> สวยมากๆ <CONT_START> รถๆเลยค่ะในtoyotabuzz <START> รถสวยมากๆๆเลยค่ะในtoyotabuzz
+<ATTRS> อยากกิน <CONT_START> รอกูกลับก่อนมาก <START>,<ATTRS> อยากกิน <CONT_START> รอกูกลับก่อนมาก <START> รอกูกลับก่อนอยากกินมาก
+<ATTRS> ชอบ <CONT_START> แล้วแต่ไม่ก้อแล้วแต่ <START>,<ATTRS> ชอบ <CONT_START> แล้วแต่ไม่ก้อแล้วแต่ <START> แล้วแต่ชอบไม่ชอบก้อแล้วแต่
+<ATTRS> ▁ว้าว <CONT_START> ววชีสยืดยืดใน <START>,<ATTRS> ▁ว้าว <CONT_START> ววชีสยืดยืดใน <START> ว้าวววชีสยืดยืดใน
+<ATTRS> ไปหน่อย <CONT_START> สามีพาเค้าจิ😚 <START>,<ATTRS> ไปหน่อย <CONT_START> สามีพาเค้าจิ😚 <START> สามีพาเค้าไปหน่อยจิ😚
+<ATTRS> สู้ๆๆใจ ให้ ครับ <CONT_START> ครับเป็นกำลง <START>,<ATTRS> สู้ๆๆใจ ให้ ครับ <CONT_START> ครับเป็นกำลง <START> สู้ๆๆครับเป็นกำลงใจให้ครับ
+<ATTRS> ไม่ อันตราย ด้วยครับ <CONT_START> หอมไม่ <START>,<ATTRS> ไม่ อันตราย ด้วยครับ <CONT_START> หอมไม่ <START> หอมไม่ไม่อันตรายด้วยครับ
+<ATTRS>  <CONT_START> เหมาะกะมึงที่สัสคะเอ้ยสุด <START>,<ATTRS>  <CONT_START> เหมาะกะมึงที่สัสคะเอ้ยสุด <START> เหมาะกะมึงที่สัสคะเอ้ยสุด
+<ATTRS> ▁อยากกิน <CONT_START> บาบิก้อนสัส <START>,<ATTRS> ▁อยากกิน <CONT_START> บาบิก้อนสัส <START> อยากกินบาบิก้อนสัส
+<ATTRS> อะ อยาก แดก <CONT_START> อะไรก็ได้ตอนนี้บุไฟ <START>,<ATTRS> อะ อยาก แดก <CONT_START> อะไรก็ได้ตอนนี้บุไฟ <START> อะไรก็ได้ตอนนี้อะอยากแดกบุไฟ
+<ATTRS> ปัง มาก <CONT_START> ครับโดนเฉพาะcelerio <START>,<ATTRS> ปัง มาก <CONT_START> ครับโดนเฉพาะcelerio <START> ครับโดนเฉพาะcelerioปังมาก
+<ATTRS> ▁ จัดหิว วว <CONT_START> เลยอย่าได้รอช้าในข้า <START>,<ATTRS> ▁ จัดหิว วว <CONT_START> เลยอย่าได้รอช้าในข้า <START> จัดเลยอย่าได้รอช้าในข้าหิววว
+<ATTRS> จัด <CONT_START> เจ๊!!!เราต้องแล้วล่ะค่ะ <START>,<ATTRS> จัด <CONT_START> เจ๊!!!เราต้องแล้วล่ะค่ะ <START> เจ๊!!!เราต้องจัดแล้วล่ะค่ะ
+<ATTRS> ไป คร่า <CONT_START> เชิญเพื่อนกินเอ็มเค <START>,<ATTRS> ไป คร่า <CONT_START> เชิญเพื่อนกินเอ็มเค <START> เชิญเพื่อนกินเอ็มเคไปคร่า
+<ATTRS> ดี จุง <CONT_START> งงกล้ายอมรับและปรับปรุง <START>,<ATTRS> ดี จุง <CONT_START> งงกล้ายอมรับและปรับปรุง <START> ดีจุงงงกล้ายอมรับและปรับปรุง
+<ATTRS> ไปอีก จะ <CONT_START> ถ้าพักที่นี่แหละครับ <START>,<ATTRS> ไปอีก จะ <CONT_START> ถ้าพักที่นี่แหละครับ <START> ถ้าไปอีกจะพักที่นี่แหละครับ
+<ATTRS> แดก กก <CONT_START> แท็กตั้ง9ครั้งเลขมงคลไป <START>,<ATTRS> แดก กก <CONT_START> แท็กตั้ง9ครั้งเลขมงคลไป <START> แท็กตั้ง9ครั้งเลขมงคลไปแดกกก
+<ATTRS> อยากกินไปกิน หน่อย <CONT_START> น้องพาน้อง <START>,<ATTRS> อยากกินไปกิน หน่อย <CONT_START> น้องพาน้อง <START> น้องอยากกินพาน้องไปกินหน่อย
+<ATTRS> ▁น่า ไปของ มัก <CONT_START> ยุแสงสีครับใน <START>,<ATTRS> ▁น่า ไปของ มัก <CONT_START> ยุแสงสีครับใน <START> น่าไปยุแสงสีของมักครับใน
+<ATTRS> ที่ต้องการ <CONT_START> นี่ไงคะในมันม่วง <START>,<ATTRS> ที่ต้องการ <CONT_START> นี่ไงคะในมันม่วง <START> นี่ไงคะในมันม่วงที่ต้องการ
+<ATTRS> ▁ ป่ะไป สัก <CONT_START> ๆๆหลายรอบมิได้รอบ <START>,<ATTRS> ▁ ป่ะไป สัก <CONT_START> ๆๆหลายรอบมิได้รอบ <START> ป่ะๆๆหลายรอบมิได้ไปสักรอบ
+<ATTRS> ▁ ป่ะๆๆ กินเอม เค กัน <CONT_START> ค่ะพี่เบียร์ <START>,<ATTRS> ▁ ป่ะๆๆ กินเอม เค กัน <CONT_START> ค่ะพี่เบียร์ <START> ป่ะๆๆกินเอมเคกันค่ะพี่เบียร์
+<ATTRS> ▁ ไป <CONT_START> ๆๆคุณนายดาเดี๋ยวเลี้ยงเอง <START>,<ATTRS> ▁ ไป <CONT_START> ๆๆคุณนายดาเดี๋ยวเลี้ยงเอง <START> ไปๆๆคุณนายดาเดี๋ยวเลี้ยงเอง
+<ATTRS>  <CONT_START> พนักงานทุกต้อนรับและดูแลดี <START>,<ATTRS>  <CONT_START> พนักงานทุกต้อนรับและดูแลดี <START> พนักงานทุกต้อนรับและดูแลดี
+<ATTRS> ▁พรุ่งนี้ไปกิน เห็นแล้ว <CONT_START> จะแซ่ <START>,<ATTRS> ▁พรุ่งนี้ไปกิน เห็นแล้ว <CONT_START> จะแซ่ <START> พรุ่งนี้จะไปกินเห็นแล้วแซ่
+<ATTRS> ▁ พาไปกิน หน่อยอยาก กก <CONT_START> kfcด้วย <START>,<ATTRS> ▁ พาไปกิน หน่อยอยาก กก <CONT_START> kfcด้วย <START> พาไปกินหน่อยkfcด้วยอยากกก
+<ATTRS> ▁ พาไปกิน หน่อย <CONT_START> มิได้ไปนานแล้ว <START>,<ATTRS> ▁ พาไปกิน หน่อย <CONT_START> มิได้ไปนานแล้ว <START> พาไปกินหน่อยมิได้ไปนานแล้ว
+<ATTRS> ไม่บอก ก็รู้ว่าจะพาไป😘 <CONT_START> เลี้ยง <START>,<ATTRS> ไม่บอก ก็รู้ว่าจะพาไป😘 <CONT_START> เลี้ยง <START> ไม่บอกก็รู้ว่าจะพาไปเลี้ยง😘
+<ATTRS> น่าทาน <CONT_START> เยอะมากทั้งนั้นเลยค่ะ <START>,<ATTRS> น่าทาน <CONT_START> เยอะมากทั้งนั้นเลยค่ะ <START> เยอะมากน่าทานทั้งนั้นเลยค่ะ
+<ATTRS> ▁ ราคาไม่แพงคุ้ม <CONT_START> กับเงินที่จ่าย <START>,<ATTRS> ▁ ราคาไม่แพงคุ้ม <CONT_START> กับเงินที่จ่าย <START> ราคาไม่แพงคุ้มกับเงินที่จ่าย
+<ATTRS> ▁วันนี้ ไปไหน ดีอยากกิน <CONT_START> บาบีกอใน <START>,<ATTRS> ▁วันนี้ ไปไหน ดีอยากกิน <CONT_START> บาบีกอใน <START> วันนี้ไปไหนดีอยากกินบาบีกอใน
+<ATTRS> ▁ว้าวดีใจมากๆๆ เลยค่า <CONT_START> มาใน <START>,<ATTRS> ▁ว้าวดีใจมากๆๆ เลยค่า <CONT_START> มาใน <START> ว้าวดีใจมากๆๆเลยค่ามาใน
+<ATTRS> ▁ว้าวไป อิ่ม <CONT_START> ท้องแตกมันมั้ย <START>,<ATTRS> ▁ว้าวไป อิ่ม <CONT_START> ท้องแตกมันมั้ย <START> ว้าวไปอิ่มท้องแตกมันมั้ย
+<ATTRS> สู้ๆๆหนึ่ง เสียง <CONT_START> ครับเป็นอีครับ <START>,<ATTRS> สู้ๆๆหนึ่ง เสียง <CONT_START> ครับเป็นอีครับ <START> สู้ๆๆครับเป็นอีหนึ่งเสียงครับ
+<ATTRS> ▁อยากกินา ไปหน่อย <CONT_START> จุลงเพื่อนจ้าพ <START>,<ATTRS> ▁อยากกินา ไปหน่อย <CONT_START> จุลงเพื่อนจ้าพ <START> อยากกินจุลงเพื่อนจ้าพาไปหน่อย
+<ATTRS> ▁อยากกินพาไป กิน <CONT_START> อีกแระโหนิยาย <START>,<ATTRS> ▁อยากกินพาไป กิน <CONT_START> อีกแระโหนิยาย <START> อยากกินอีกแระพาไปกินโหนิยาย
+<ATTRS> เอ็ม เค ไง มึงอยากกิน <CONT_START> มิใช่หรอ <START>,<ATTRS> เอ็ม เค ไง มึงอยากกิน <CONT_START> มิใช่หรอ <START> เอ็มเคไงมึงอยากกินมิใช่หรอ
+<ATTRS> อร่อย <CONT_START> ก้อนอบบาร์บีคิวน่านะครับ <START>,<ATTRS> อร่อย <CONT_START> ก้อนอบบาร์บีคิวน่านะครับ <START> ก้อนอบบาร์บีคิวน่าอร่อยนะครับ
+<ATTRS> ฟิน <CONT_START> กินแล้วค่ะน.ดูจากรูป. <START>,<ATTRS> ฟิน <CONT_START> กินแล้วค่ะน.ดูจากรูป. <START> กินแล้วค่ะน.ดูจากรูป.ฟิน
+<ATTRS> ชอบ <CONT_START> กูกินช้างละเจอคนเทวะ5 <START>,<ATTRS> ชอบ <CONT_START> กูกินช้างละเจอคนเทวะ5 <START> กูกินช้างละชอบเจอคนเทวะ5
+<ATTRS> ไปกิน บ า บี <CONT_START> เก็บเงินก้อนก่อน555 <START>,<ATTRS> ไปกิน บ า บี <CONT_START> เก็บเงินก้อนก่อน555 <START> เก็บเงินไปกินบาบีก้อนก่อน555
+<ATTRS> กําลังใจขอขอบคุณ <CONT_START> และเป็นกำลังใจให้ครับ <START>,<ATTRS> กําลังใจขอขอบคุณ <CONT_START> และเป็นกำลังใจให้ครับ <START> ขอขอบคุณและเป็นกำลังใจให้ครับ
+<ATTRS> ดี คับ <CONT_START> ขัดออกจากคอดำๆๆหายดำเลย <START>,<ATTRS> ดี คับ <CONT_START> ขัดออกจากคอดำๆๆหายดำเลย <START> ขัดออกดีคับจากคอดำๆๆหายดำเลย
+<ATTRS> จัดให้😋 <CONT_START> โหนายวันนี้ <START>,<ATTRS> จัดให้😋 <CONT_START> โหนายวันนี้ <START> จัดให้โหนายวันนี้😋
+<ATTRS> ชอบมากสุดๆ <CONT_START> ใช้แป้งโชพี่เนยพ.ศ.ๆ <START>,<ATTRS> ชอบมากสุดๆ <CONT_START> ใช้แป้งโชพี่เนยพ.ศ.ๆ <START> ใช้แป้งโชพี่เนยชอบมากพ.ศ.สุดๆๆ
+<ATTRS> อร่อยดีไปหน่อย <CONT_START> ซุปน้ำดำแตกหวาน <START>,<ATTRS> อร่อยดีไปหน่อย <CONT_START> ซุปน้ำดำแตกหวาน <START> ซุปน้ำดำอร่อยดีแตกหวานไปหน่อย
+<ATTRS> ดีค่ะ <CONT_START> ใด้รับของแล้วค่ะแพ็กของ <START>,<ATTRS> ดีค่ะ <CONT_START> ใด้รับของแล้วค่ะแพ็กของ <START> ใด้รับของแล้วค่ะแพ็กของดีค่ะ
+<ATTRS> ชอบ <CONT_START> นิกสันมาส🚗ประหยัดตอง <START>,<ATTRS> ชอบ <CONT_START> นิกสันมาส🚗ประหยัดตอง <START> นิกสันมาส🚗ประหยัดตองชอบ
+<ATTRS> ▁ ไป <CONT_START> ค่ะป๋าหมีมารับรองด้วยมะคะ <START>,<ATTRS> ▁ ไป <CONT_START> ค่ะป๋าหมีมารับรองด้วยมะคะ <START> ไปค่ะป๋าหมีมารับรองด้วยมะคะ
+<ATTRS> น่ารัก <CONT_START> รักก้อนในร้าก้อน😙 <START>,<ATTRS> น่ารัก <CONT_START> รักก้อนในร้าก้อน😙 <START> รักก้อนในร้าก้อนน่ารัก😙
+<ATTRS> ▁รัก เจ้ <CONT_START> บิวตี้บ๊อคเกอร์นต่อไป <START>,<ATTRS> ▁รัก เจ้ <CONT_START> บิวตี้บ๊อคเกอร์นต่อไป <START> รักเจ้บิวตี้บ๊อคเกอร์นต่อไป
+<ATTRS> ▁รัก เลย😘 <CONT_START> ในmitsubishiในattrage <START>,<ATTRS> ▁รัก เลย😘 <CONT_START> ในmitsubishiในattrage <START> รักเลย😘ในmitsubishiในattrage
+<ATTRS> ป่ะอยากกิน <CONT_START> เลี้ยงสายนี้กุ5 <START>,<ATTRS> ป่ะอยากกิน <CONT_START> เลี้ยงสายนี้กุ5 <START> เลี้ยงสายนี้ป่ะกุอยากกิน5
+<ATTRS> ▁วันนี้ ไปจัดอร่อย <CONT_START> มาแล้วจุเบย <START>,<ATTRS> ▁วันนี้ ไปจัดอร่อย <CONT_START> มาแล้วจุเบย <START> วันนี้ไปจัดมาแล้วอร่อยจุเบย
+<ATTRS> ได ชอบกิน <CONT_START> ว่าแล้วไฮเนเก้น5 <START>,<ATTRS> ได ชอบกิน <CONT_START> ว่าแล้วไฮเนเก้น5 <START> ว่าแล้วไดชอบกินไฮเนเก้น5
+<ATTRS>  <CONT_START> วิ่งไปจุดพลุที่ร้านบาร์บีก้อน <START>,<ATTRS>  <CONT_START> วิ่งไปจุดพลุที่ร้านบาร์บีก้อน <START> วิ่งไปจุดพลุที่ร้านบาร์บีก้อน
+<ATTRS> สวยมาก <CONT_START> อยากเอารีโว่ไปเทินเลย55 <START>,<ATTRS> สวยมาก <CONT_START> อยากเอารีโว่ไปเทินเลย55 <START> สวยมากอยากเอารีโว่ไปเทินเลย55
+<ATTRS> กําลังใจสู้ๆๆ <CONT_START> นะครับเป็นกำลังใจให้ครับ <START>,<ATTRS> กําลังใจสู้ๆๆ <CONT_START> นะครับเป็นกำลังใจให้ครับ <START> สู้ๆๆนะครับเป็นกำลังใจให้ครับ
+<ATTRS> โอ้ย ถูก <CONT_START> หงส์ทองรือจะหงส์ทองจัย <START>,<ATTRS> โอ้ย ถูก <CONT_START> หงส์ทองรือจะหงส์ทองจัย <START> หงส์ทองรือจะหงส์ทองโอ้ยถูกจัย
+<ATTRS> นายก เสร็จ แน่นอน ที่รัก <CONT_START> หลังรับ <START>,<ATTRS> นายก เสร็จ แน่นอน ที่รัก <CONT_START> หลังรับ <START> หลังรับนายกเสร็จแน่นอนที่รัก
+<ATTRS> ▁อยากกิน <CONT_START>  <START>,<ATTRS> ▁อยากกิน <CONT_START>  <START> อยากกิน
+<ATTRS> ชอบกิน เป็ด <CONT_START> 5แฟนน่าก็เอ็มเค <START>,<ATTRS> ชอบกิน เป็ด <CONT_START> 5แฟนน่าก็เอ็มเค <START> 5แฟนน่าก็ชอบกินเป็ดเอ็มเค
+<ATTRS> อร่อย <CONT_START> ในคะนู๋คอนเดิมมีมีอิสิ <START>,<ATTRS> อร่อย <CONT_START> ในคะนู๋คอนเดิมมีมีอิสิ <START> ในอร่อยคะนู๋คอนเดิมมีมีอิสิ
+<ATTRS> บริการดี <CONT_START> เจ้าของยิ้มแย้มสุภาพ <START>,<ATTRS> บริการดี <CONT_START> เจ้าของยิ้มแย้มสุภาพ <START> เจ้าของบริการดียิ้มแย้มสุภาพ
+<ATTRS> ต้องจัดสักหน่อย <CONT_START> บังเกิดน้องล่ะ <START>,<ATTRS> ต้องจัดสักหน่อย <CONT_START> บังเกิดน้องล่ะ <START> ต้องจัดบังเกิดน้องสักหน่อยล่ะ
+<ATTRS> บุหรี่ ไฟฟ้า กว่า ประหยัด <CONT_START> กว่าน. <START>,<ATTRS> บุหรี่ ไฟฟ้า กว่า ประหยัด <CONT_START> กว่าน. <START> บุหรี่ไฟฟ้ากว่าประหยัดกว่าน.
+<ATTRS> ▁ ไป <CONT_START> กีดกันฉลองบังเกิดย้อนหลังกัน <START>,<ATTRS> ▁ ไป <CONT_START> กีดกันฉลองบังเกิดย้อนหลังกัน <START> ไปกีดกันฉลองบังเกิดย้อนหลังกัน
+<ATTRS> กิน เลยค่ะอยากกิน <CONT_START> ไม่เคยมาก <START>,<ATTRS> กิน เลยค่ะอยากกิน <CONT_START> ไม่เคยมาก <START> ไม่เคยกินเลยค่ะอยากกินมาก
+<ATTRS>  <CONT_START> ไม่เคยรักใครเท่าบาร์บีก้อนแล้ว <START>,<ATTRS>  <CONT_START> ไม่เคยรักใครเท่าบาร์บีก้อนแล้ว <START> ไม่เคยรักใครเท่าบาร์บีก้อนแล้ว
+<ATTRS> คุ้มมาก คะดี ราคาไม่แพง <CONT_START> ราคาใช้ <START>,<ATTRS> คุ้มมาก คะดี ราคาไม่แพง <CONT_START> ราคาใช้ <START> ราคาคุ้มมากคะใช้ดีราคาไม่แพง
+<ATTRS> วันไหน ดี <CONT_START> พี่กลับสีหน้าแล้วจะร้า <START>,<ATTRS> วันไหน ดี <CONT_START> พี่กลับสีหน้าแล้วจะร้า <START> วันไหนดีพี่กลับสีหน้าแล้วจะร้า
+<ATTRS> กําลังใจ <CONT_START> ส่งกำลังใจให้ทีมงานทุกหนครับ <START>,<ATTRS> กําลังใจ <CONT_START> ส่งกำลังใจให้ทีมงานทุกหนครับ <START> ส่งกำลังใจให้ทีมงานทุกหนครับ
+<ATTRS>  <CONT_START> สนป่าวถ้าสนกูจะได้เก็บตังไปกิน <START>,<ATTRS>  <CONT_START> สนป่าวถ้าสนกูจะได้เก็บตังไปกิน <START> สนป่าวถ้าสนกูจะได้เก็บตังไปกิน
+<ATTRS> ▁สวย <CONT_START> ด้วยกานิเย่มะต้องใช้แอพอค่ะ <START>,<ATTRS> ▁สวย <CONT_START> ด้วยกานิเย่มะต้องใช้แอพอค่ะ <START> สวยด้วยกานิเย่มะต้องใช้แอพอค่ะ
+<ATTRS>  <CONT_START> สาขาเซ็นทรัลบางตาก็เนื้อเยอะนะ <START>,<ATTRS>  <CONT_START> สาขาเซ็นทรัลบางตาก็เนื้อเยอะนะ <START> สาขาเซ็นทรัลบางตาก็เนื้อเยอะนะ
+<ATTRS> ▁สุดยอดชื่นชม คับ <CONT_START> คับพวกพี่น. <START>,<ATTRS> ▁สุดยอดชื่นชม คับ <CONT_START> คับพวกพี่น. <START> สุดยอดคับพวกพี่น.ชื่นชมคับ
+<ATTRS> สุ้ผมจะไป <CONT_START> คับถ้าไม่ยุไกลด้วย <START>,<ATTRS> สุ้ผมจะไป <CONT_START> คับถ้าไม่ยุไกลด้วย <START> สุ้สุ้คับถ้าไม่ยุไกลผมจะไปด้วย
+<ATTRS> ▁อยากกินจัดไป <CONT_START> สอบเสร็จคะ5 <START>,<ATTRS> ▁อยากกินจัดไป <CONT_START> สอบเสร็จคะ5 <START> อยากกินสอบเสร็จจัดไปคะ5
+<ATTRS> 😍 <CONT_START> อยากลองกองcanmakeค่ามา <START>,<ATTRS> 😍 <CONT_START> อยากลองกองcanmakeค่ามา <START> อยากลองกองcanmakeค่ามา😍
+<ATTRS> ▁ ขอบคุณครับสู้เพื่อ <CONT_START> ที่พวกเราครับ <START>,<ATTRS> ▁ ขอบคุณครับสู้เพื่อ <CONT_START> ที่พวกเราครับ <START> ขอบคุณครับที่สู้เพื่อพวกเราครับ
+<ATTRS> โคตร ได้ <CONT_START> 5 <START>,<ATTRS> โคตร ได้ <CONT_START> 5 <START> โคตรได้5
+<ATTRS> ▁ จัดๆๆ มะ <CONT_START> พิมเดอะวอคนใกล้ออฟฟิศเลย <START>,<ATTRS> ▁ จัดๆๆ มะ <CONT_START> พิมเดอะวอคนใกล้ออฟฟิศเลย <START> จัดๆๆมะพิมเดอะวอคนใกล้ออฟฟิศเลย
+<ATTRS> จะไป มัน <CONT_START> แจ่มแค่นี้ทุกหนเลยใน <START>,<ATTRS> จะไป มัน <CONT_START> แจ่มแค่นี้ทุกหนเลยใน <START> แจ่มแค่นี้จะไปมันทุกหนเลยใน
+<ATTRS> ต้อง ได้กิน <CONT_START> เชิดคอลีโออย่างกุ <START>,<ATTRS> ต้อง ได้กิน <CONT_START> เชิดคอลีโออย่างกุ <START> เชิดคอลีโออย่างกุต้องได้กิน
+<ATTRS> ยินดี <CONT_START> ด้วยความเป็นอย่างยิ่งคร้าบ <START>,<ATTRS> ยินดี <CONT_START> ด้วยความเป็นอย่างยิ่งคร้าบ <START> ด้วยความยินดีเป็นอย่างยิ่งคร้าบ
+<ATTRS> จัด <CONT_START> เดขอไปบาบีก้อนกับพี่ใจก่อนใน <START>,<ATTRS> จัด <CONT_START> เดขอไปบาบีก้อนกับพี่ใจก่อนใน <START> เดขอไปจัดบาบีก้อนกับพี่ใจก่อนใน
+<ATTRS> มา ด้วยค่ะขอบคุณค่ะ <CONT_START> ได้ถุงผ้าแถม <START>,<ATTRS> มา ด้วยค่ะขอบคุณค่ะ <CONT_START> ได้ถุงผ้าแถม <START> ได้ถุงผ้าแถมมาด้วยค่ะขอบคุณค่ะ
+<ATTRS>  <CONT_START> ที่บ้านร้อนมากมีป๋องดำคลายร้อน <START>,<ATTRS>  <CONT_START> ที่บ้านร้อนมากมีป๋องดำคลายร้อน <START> ที่บ้านร้อนมากมีป๋องดำคลายร้อน
+<ATTRS> ผ้าอนามัย ในฝัน กู <CONT_START> ที่ไหนมีขายเลย <START>,<ATTRS> ผ้าอนามัย ในฝัน กู <CONT_START> ที่ไหนมีขายเลย <START> ที่ไหนมีขายผ้าอนามัยในฝันกูเลย
+<ATTRS> ▁ ไปๆๆ กันครับวันไหน บอก <CONT_START> ว่างล่ะกัน <START>,<ATTRS> ▁ ไปๆๆ กันครับวันไหน บอก <CONT_START> ว่างล่ะกัน <START> ไปๆๆกันครับว่างวันไหนบอกล่ะกัน
+<ATTRS> ปลื้ม <CONT_START> มีหมี่ต้มนำด้วยโอ๊ยยยน้อย <START>,<ATTRS> ปลื้ม <CONT_START> มีหมี่ต้มนำด้วยโอ๊ยยยน้อย <START> มีหมี่ต้มนำด้วยโอ๊ยยยน้อยปลื้ม
+<ATTRS> ยอม ใจ พวก พี่ๆขอบคุณ <CONT_START> ๆๆๆเลยคาไฟ <START>,<ATTRS> ยอม ใจ พวก พี่ๆขอบคุณ <CONT_START> ๆๆๆเลยคาไฟ <START> ยอมใจพวกพี่ๆๆๆๆเลยขอบคุณคาไฟ
+<ATTRS> มากครับ กินง่ายไม่ ขม คอ <CONT_START> รสชาติ <START>,<ATTRS> มากครับ กินง่ายไม่ ขม คอ <CONT_START> รสชาติ <START> รสชาติมากครับกินง่ายไม่ขมคอ
+<ATTRS> า ไปหน่อย <CONT_START> รักนะจุบๆๆคดีของเราพ <START>,<ATTRS> า ไปหน่อย <CONT_START> รักนะจุบๆๆคดีของเราพ <START> รักนะจุบๆๆคดีของเราพาไปหน่อย
+<ATTRS> น่ารักมาก <CONT_START> โหหนุ่มเขิน;———ในใน <START>,<ATTRS> น่ารักมาก <CONT_START> โหหนุ่มเขิน;———ในใน <START> โหหนุ่มเขินน่ารักมาก;———ในใน
+<ATTRS> จะ ชวน ไปกิน ฮอ <CONT_START> เออทพอทำแก้หนาวก่อน <START>,<ATTRS> จะ ชวน ไปกิน ฮอ <CONT_START> เออทพอทำแก้หนาวก่อน <START> เออจะชวนไปกินฮอทพอทำแก้หนาวก่อน
+<ATTRS> 👍 <CONT_START>  <START>,<ATTRS> 👍 <CONT_START>  <START> 👍
+<ATTRS> อร่อย <CONT_START> กินยังงงเย็นเห็นมีคนบอก <START>,<ATTRS> อร่อย <CONT_START> กินยังงงเย็นเห็นมีคนบอก <START> กินยังงงเย็นเห็นมีคนบอกอร่อย
+<ATTRS> อยากกินพาไป กิน <CONT_START> เค้าวันจันหน้าทีนะ <START>,<ATTRS> อยากกินพาไป กิน <CONT_START> เค้าวันจันหน้าทีนะ <START> เค้าอยากกินวันจันหน้าพาไปกินทีนะ
+<ATTRS> มากค่ะชอบมาก <CONT_START> จอบรถยนต์civicใช้แล้ว <START>,<ATTRS> มากค่ะชอบมาก <CONT_START> จอบรถยนต์civicใช้แล้ว <START> จอบรถยนต์civicมากค่ะใช้แล้วชอบมาก
+<ATTRS> ▁ จะไป <CONT_START> แดกเซตนี้เดียวเอาให้พุงแตก <START>,<ATTRS> ▁ จะไป <CONT_START> แดกเซตนี้เดียวเอาให้พุงแตก <START> จะไปแดกเซตนี้เดียวเอาให้พุงแตก
+<ATTRS> ▁ จัด <CONT_START> ๆๆกีดกันบ้านคิงเบียร์ช้างตวย <START>,<ATTRS> ▁ จัด <CONT_START> ๆๆกีดกันบ้านคิงเบียร์ช้างตวย <START> จัดๆๆกีดกันบ้านคิงเบียร์ช้างตวย
+<ATTRS>  <CONT_START> เตียงใหญ่มากพอที่นอนสามคนได้สบาย <START>,<ATTRS>  <CONT_START> เตียงใหญ่มากพอที่นอนสามคนได้สบาย <START> เตียงใหญ่มากพอที่นอนสามคนได้สบาย
+<ATTRS> สวย <CONT_START> ถ้าเป็นมาสด้าทุกแบบทุกรุ่นค่ะ <START>,<ATTRS> สวย <CONT_START> ถ้าเป็นมาสด้าทุกแบบทุกรุ่นค่ะ <START> ถ้าเป็นมาสด้าสวยทุกแบบทุกรุ่นค่ะ
+<ATTRS> เลิก บุหรี่ แล้ว เพราะ <CONT_START> ผมบุหรี่ไฟฟ้า <START>,<ATTRS> เลิก บุหรี่ แล้ว เพราะ <CONT_START> ผมบุหรี่ไฟฟ้า <START> ผมเลิกบุหรี่แล้วเพราะบุหรี่ไฟฟ้า
+<ATTRS> อร่อยมาก <CONT_START> มันลืมอ้วนกันเลยทีเดียว <START>,<ATTRS> อร่อยมาก <CONT_START> มันลืมอ้วนกันเลยทีเดียว <START> มันอร่อยมากลืมอ้วนกันเลยทีเดียว
+"<ATTRS> ไม่เปลี่ยน ครับ มั่นใจ <CONT_START> 1,000,000ใน <START>","<ATTRS> ไม่เปลี่ยน ครับ มั่นใจ <CONT_START> 1,000,000ใน <START> ไม่เปลี่ยนครับมั่นใจ1,000,000ใน"
+<ATTRS> ลงชื่อ <CONT_START> ร่วมด้วยครับยังไงบ้างครับ <START>,<ATTRS> ลงชื่อ <CONT_START> ร่วมด้วยครับยังไงบ้างครับ <START> ร่วมลงชื่อด้วยครับยังไงบ้างครับ
+<ATTRS> จัดไปขอบคุณ <CONT_START> วันนี้เลยค่า5มะคะ <START>,<ATTRS> จัดไปขอบคุณ <CONT_START> วันนี้เลยค่า5มะคะ <START> วันนี้จัดไปเลยค่า5ขอบคุณมะคะ
+<ATTRS> ▁ว้าวขอแสดงความ ยินดีด้วย <CONT_START> นะครับ <START>,<ATTRS> ▁ว้าวขอแสดงความ ยินดีด้วย <CONT_START> นะครับ <START> ว้าวขอแสดงความยินดีด้วยนะครับ
+<ATTRS> ▁ว้าว <CONT_START> เต็มโต๊ะเลยยย <START>,<ATTRS> ▁ว้าว <CONT_START> เต็มโต๊ะเลยยย <START> ว้าวเต็มโต๊ะเลยยย
+<ATTRS> เสาร์ นี้เลย <CONT_START> รอรับเชิญวันศุกร์ก่อน <START>,<ATTRS> เสาร์ นี้เลย <CONT_START> รอรับเชิญวันศุกร์ก่อน <START> เสาร์นี้เลยรอรับเชิญวันศุกร์ก่อน
+<ATTRS> อยากกินมาก นะค่ะ <CONT_START> หนูที่รัก😗 <START>,<ATTRS> อยากกินมาก นะค่ะ <CONT_START> หนูที่รัก😗 <START> หนูอยากกินมากนะค่ะที่รัก😗
+<ATTRS> สะอาดดี มี ระเบียง หลัง <CONT_START> หอพักห้อง <START>,<ATTRS> สะอาดดี มี ระเบียง หลัง <CONT_START> หอพักห้อง <START> หอพักสะอาดดีมีระเบียงหลังห้อง
+<ATTRS> ▁อยากกินปาย า ก่อน <CONT_START> เลยสมั้ยตอนนี้555 <START>,<ATTRS> ▁อยากกินปาย า ก่อน <CONT_START> เลยสมั้ยตอนนี้555 <START> อยากกินเลยสปายาก่อนมั้ยตอนนี้555
+<ATTRS> อร่อยมากชอบ <CONT_START> ค่ะสตอเบอร์รี่ครีมชีส <START>,<ATTRS> อร่อยมากชอบ <CONT_START> ค่ะสตอเบอร์รี่ครีมชีส <START> อร่อยมากค่ะชอบสตอเบอร์รี่ครีมชีส
+<ATTRS> 😊ใช้ ดี จึง รอยต่อ <CONT_START> ใน2ในในในน.3ใน!!! <START>,<ATTRS> 😊ใช้ ดี จึง รอยต่อ <CONT_START> ใน2ในในในน.3ใน!!! <START> ใน2ในในในน.3ใน😊ใช้ดีจึงรอยต่อ!!!
+<ATTRS> เอ็ม เค 😂 <CONT_START> กินอะไรกินอะไรไปกิน <START>,<ATTRS> เอ็ม เค 😂 <CONT_START> กินอะไรกินอะไรไปกิน <START> กินอะไรกินอะไรไปกินเอ็มเค😂
+<ATTRS> อยากไปอยาก ดื่ม <CONT_START> ขอน๊ะค๊ะblend285 <START>,<ATTRS> อยากไปอยาก ดื่ม <CONT_START> ขอน๊ะค๊ะblend285 <START> ขอน๊ะค๊ะอยากไปอยากดื่มblend285
+<ATTRS> ▁ขอบคุณมากๆๆ ครับ <CONT_START> พี่ๆๆที่ทำตรงนี้ครับ <START>,<ATTRS> ▁ขอบคุณมากๆๆ ครับ <CONT_START> พี่ๆๆที่ทำตรงนี้ครับ <START> ขอบคุณพี่ๆๆมากๆๆครับที่ทำตรงนี้ครับ
+<ATTRS> อร่อย <CONT_START> จริงค่ะแต่บารีบก้อนกลับเยอะ <START>,<ATTRS> อร่อย <CONT_START> จริงค่ะแต่บารีบก้อนกลับเยอะ <START> จริงค่ะแต่บารีบก้อนกลับอร่อยเยอะ
+<ATTRS> ▁ จะไปวันไหน ไปกับ <CONT_START> กุป้าวจะได้หารกัน <START>,<ATTRS> ▁ จะไปวันไหน ไปกับ <CONT_START> กุป้าวจะได้หารกัน <START> จะไปวันไหนไปกับกุป้าวจะได้หารกัน
+<ATTRS> ชอบ▁ชอบง่ายอร่อย💗 <CONT_START> spyclassicกิน🍷 <START>,<ATTRS> ชอบ▁ชอบง่ายอร่อย💗 <CONT_START> spyclassicกิน🍷 <START> ชอบspyclassicกินง่ายอร่อยชอบ🍷💗
+<ATTRS> ▁ดีใจมากิน ที่ <CONT_START> อีกค่ะแอดแล้วอิสิอิ <START>,<ATTRS> ▁ดีใจมากิน ที่ <CONT_START> อีกค่ะแอดแล้วอิสิอิ <START> ดีใจอีกค่ะแอดมากินที่แล้วอิสิอิ
+<ATTRS> อยากกิน <CONT_START> ตัวๆๆเค้าค่ะวรพลทับทัน <START>,<ATTRS> อยากกิน <CONT_START> ตัวๆๆเค้าค่ะวรพลทับทัน <START> ตัวๆๆเค้าอยากกินค่ะวรพลทับทัน
+<ATTRS> อยากไป <CONT_START> ถึงจะไม่กินเบียร์ช้างก้อค่ะ <START>,<ATTRS> อยากไป <CONT_START> ถึงจะไม่กินเบียร์ช้างก้อค่ะ <START> ถึงจะไม่กินเบียร์ช้างก้ออยากไปค่ะ
+<ATTRS> ที่พัก อยู่ ไม่ ห่างจาก <CONT_START> ตลาดต้นตาลมาก <START>,<ATTRS> ที่พัก อยู่ ไม่ ห่างจาก <CONT_START> ตลาดต้นตาลมาก <START> ที่พักอยู่ไม่ห่างจากตลาดต้นตาลมาก
+<ATTRS> ▁น่ารักมากเลยค่ะ <CONT_START> หนวดเป็นสีขาวอิสิ <START>,<ATTRS> ▁น่ารักมากเลยค่ะ <CONT_START> หนวดเป็นสีขาวอิสิ <START> น่ารักมากเลยค่ะหนวดเป็นสีขาวอิสิ
+<ATTRS> ▁น่า ราก <CONT_START> อบได้ทีละถ้วยล่ะมั้ง <START>,<ATTRS> ▁น่า ราก <CONT_START> อบได้ทีละถ้วยล่ะมั้ง <START> น่ารากอบได้ทีละถ้วยล่ะมั้ง
+<ATTRS> อร่อยเด็ดปะ <CONT_START> น้ำจิ้มในร้อยเอ็ดได้ <START>,<ATTRS> อร่อยเด็ดปะ <CONT_START> น้ำจิ้มในร้อยเอ็ดได้ <START> น้ำจิ้มอร่อยเด็ดในร้อยเอ็ดได้ปะ
+<ATTRS> อร่อย <CONT_START> เปลี่ยนเป็นสีเมออฟแทนน่า <START>,<ATTRS> อร่อย <CONT_START> เปลี่ยนเป็นสีเมออฟแทนน่า <START> เปลี่ยนเป็นสีเมออฟแทนน่าอร่อย
+<ATTRS> เราชอบชอบ <CONT_START> ฝาชีหมูบดเราลูกชิ้นคริสตัล <START>,<ATTRS> เราชอบชอบ <CONT_START> ฝาชีหมูบดเราลูกชิ้นคริสตัล <START> ฝาชีชอบหมูบดเราชอบลูกชิ้นคริสตัล
+<ATTRS> ▁พรุ่งนี้ขอบคุณ <CONT_START> เลยเย้ๆๆคราฟฟปิ้ <START>,<ATTRS> ▁พรุ่งนี้ขอบคุณ <CONT_START> เลยเย้ๆๆคราฟฟปิ้ <START> พรุ่งนี้เลยเย้ๆๆขอบคุณคราฟฟปิ้
+<ATTRS> ▁ พาไปกิน หน่อย <CONT_START> วันเงินคละทรว่ะ <START>,<ATTRS> ▁ พาไปกิน หน่อย <CONT_START> วันเงินคละทรว่ะ <START> พาไปกินหน่อยวันเงินคละทรว่ะ
+<ATTRS> ไม่ไกลจาก <CONT_START> ชุมชน2กม.ถึงบึงแก่นนคร <START>,<ATTRS> ไม่ไกลจาก <CONT_START> ชุมชน2กม.ถึงบึงแก่นนคร <START> ไม่ไกลจากชุมชน2กม.ถึงบึงแก่นนคร
+<ATTRS> ▁ เริ่มเร ิศ <CONT_START> ปีใหม่ด้วยคิง4ตาติด!! <START>,<ATTRS> ▁ เริ่มเร ิศ <CONT_START> ปีใหม่ด้วยคิง4ตาติด!! <START> เริ่มปีใหม่ด้วยคิง4ตาติดเริศ!!
+<ATTRS> ▁ว้าวกรี๊ด ดด <CONT_START> ๆๆใช้cosluxeพอดีเลย <START>,<ATTRS> ▁ว้าวกรี๊ด ดด <CONT_START> ๆๆใช้cosluxeพอดีเลย <START> ว้าวๆๆใช้cosluxeพอดีเลยกรี๊ดดด
+<ATTRS> ส ุ้ม คะ <CONT_START> เป้ในกำลังอยู่ข้างหลังเสมอ <START>,<ATTRS> ส ุ้ม คะ <CONT_START> เป้ในกำลังอยู่ข้างหลังเสมอ <START> สุ้มคะเป้ในกำลังอยู่ข้างหลังเสมอ
+<ATTRS> ▁อยากกิน😁 <CONT_START> บาบีก้อนbar-b-qพลาซ่า <START>,<ATTRS> ▁อยากกิน😁 <CONT_START> บาบีก้อนbar-b-qพลาซ่า <START> อยากกินบาบีก้อนbar-b-qพลาซ่า😁
+<ATTRS> อยากกิน <CONT_START> โอ๊ย😂น้ำซุป <START>,<ATTRS> อยากกิน <CONT_START> โอ๊ย😂น้ำซุป <START> โอ๊ย😂อยากกินน้ำซุป
+<ATTRS> หล่อ <CONT_START> toyotaใน86ในในมุมนี้อย่าง <START>,<ATTRS> หล่อ <CONT_START> toyotaใน86ในในมุมนี้อย่าง <START> toyotaใน86ในในมุมนี้อย่างหล่อ
+<ATTRS> ▁ขอบคุณมากๆๆ💗 <CONT_START> น้องหมิวเลยมะคะ🙏 <START>,<ATTRS> ▁ขอบคุณมากๆๆ💗 <CONT_START> น้องหมิวเลยมะคะ🙏 <START> ขอบคุณน้องหมิวมากๆๆเลยมะคะ🙏💗
+<ATTRS> ▁ขอบคุณกระบอก เสียง ให้ <CONT_START> พี่ที่เป็นครับ <START>,<ATTRS> ▁ขอบคุณกระบอก เสียง ให้ <CONT_START> พี่ที่เป็นครับ <START> ขอบคุณพี่ที่เป็นกระบอกเสียงให้ครับ
+<ATTRS> ▁ ขอบ <CONT_START> คุในคับป๋าจะได้มะต้องหลบๆๆซ่อนใน <START>,<ATTRS> ▁ ขอบ <CONT_START> คุในคับป๋าจะได้มะต้องหลบๆๆซ่อนใน <START> ขอบคุในคับป๋าจะได้มะต้องหลบๆๆซ่อนใน
+<ATTRS> อยากไป <CONT_START> ครั้งที่39ด้hondacivicค่ะ <START>,<ATTRS> อยากไป <CONT_START> ครั้งที่39ด้hondacivicค่ะ <START> ครั้งที่39อยากไปด้hondacivicค่ะ
+<ATTRS> สุดยอด <CONT_START> ครีมกันแดดยี่ห้อclarinsค่ะ <START>,<ATTRS> สุดยอด <CONT_START> ครีมกันแดดยี่ห้อclarinsค่ะ <START> ครีมกันแดดยี่ห้อclarinsสุดยอดค่ะ
+<ATTRS> ดีงามจ๊า บ !!! เลยคับ <CONT_START> คับพ.ศ.รองแล้ว <START>,<ATTRS> ดีงามจ๊า บ !!! เลยคับ <CONT_START> คับพ.ศ.รองแล้ว <START> ดีงามคับพ.ศ.รองแล้วจ๊าบ!!!เลยคับ
+<ATTRS>  <CONT_START> ได้ท่าว่าเชื่อวันบาบีก้อนเอดอกกก <START>,<ATTRS>  <CONT_START> ได้ท่าว่าเชื่อวันบาบีก้อนเอดอกกก <START> ได้ท่าว่าเชื่อวันบาบีก้อนเอดอกกก
+<ATTRS> เราจะไป <CONT_START> ตอนแก่นั่งแดกโฮกาเด้ใน5 <START>,<ATTRS> เราจะไป <CONT_START> ตอนแก่นั่งแดกโฮกาเด้ใน5 <START> ตอนแก่เราจะไปนั่งแดกโฮกาเด้ใน5
+<ATTRS> ขอบคุณครับ <CONT_START> ทานเผื่อก้อนด้วยนะคร้าบ <START>,<ATTRS> ขอบคุณครับ <CONT_START> ทานเผื่อก้อนด้วยนะคร้าบ <START> ทานเผื่อก้อนด้วยนะคร้าบขอบคุณครับ
+<ATTRS> ▁ ป่ะ😊 <CONT_START> ไปปิดกล่องยอร์คเทอมนี้กัน <START>,<ATTRS> ▁ ป่ะ😊 <CONT_START> ไปปิดกล่องยอร์คเทอมนี้กัน <START> ป่ะไปปิดกล่องยอร์คเทอมนี้กัน😊
+<ATTRS> ▁ ไป <CONT_START> ๆๆกันพี่ติ๊กป๋าแบงค์เค้าจะเลี้ยง <START>,<ATTRS> ▁ ไป <CONT_START> ๆๆกันพี่ติ๊กป๋าแบงค์เค้าจะเลี้ยง <START> ไปๆๆกันพี่ติ๊กป๋าแบงค์เค้าจะเลี้ยง
+<ATTRS> ▁ ไปโดน ๆๆเนื้อ และ นุ่มมาก ฟัน เฟิร์ม <CONT_START>  <START>,<ATTRS> ▁ ไปโดน ๆๆเนื้อ และ นุ่มมาก ฟัน เฟิร์ม <CONT_START>  <START> ไปโดนๆๆเนื้อและนุ่มมากฟันเฟิร์ม
+<ATTRS> จัดแรง ประหยัด นิ่ม <CONT_START> ผมแล้วคับรีโว่คับ <START>,<ATTRS> จัดแรง ประหยัด นิ่ม <CONT_START> ผมแล้วคับรีโว่คับ <START> ผมจัดแล้วคับรีโว่แรงประหยัดนิ่มคับ
+<ATTRS> ดีครับ ทนทาน <CONT_START> พอรีอุสีทำไว้ปัญหาน้อย <START>,<ATTRS> ดีครับ ทนทาน <CONT_START> พอรีอุสีทำไว้ปัญหาน้อย <START> พอรีอุสีทำไว้ดีครับทนทานปัญหาน้อย
+<ATTRS> ▁ มาสวยเลิศ <CONT_START> themeเดียวกันแร้วว๊อยยย <START>,<ATTRS> ▁ มาสวยเลิศ <CONT_START> themeเดียวกันแร้วว๊อยยย <START> มาthemeเดียวกันแร้วว๊อยยยสวยเลิศ
+<ATTRS> อร่อย <CONT_START> มีคนบอกว่าเค้าปรับปรุงขึ้นนะ <START>,<ATTRS> อร่อย <CONT_START> มีคนบอกว่าเค้าปรับปรุงขึ้นนะ <START> มีคนบอกว่าเค้าปรับปรุงอร่อยขึ้นนะ
+<ATTRS> ▁สุดยอดมากๆๆ <CONT_START> ครับพี่ๆๆ <START>,<ATTRS> ▁สุดยอดมากๆๆ <CONT_START> ครับพี่ๆๆ <START> สุดยอดมากๆๆครับพี่ๆๆ
+<ATTRS> สู้ๆๆ <CONT_START> เป็นหนึ่งในพนักงานในเบียร์ช้าง <START>,<ATTRS> สู้ๆๆ <CONT_START> เป็นหนึ่งในพนักงานในเบียร์ช้าง <START> สู้ๆๆเป็นหนึ่งในพนักงานในเบียร์ช้าง
+<ATTRS> กําลังใจสู้ๆๆให้ ทุกท่าน ครับ <CONT_START> ครับเป็นกำลังใจ <START>,<ATTRS> กําลังใจสู้ๆๆให้ ทุกท่าน ครับ <CONT_START> ครับเป็นกำลังใจ <START> สู้ๆๆครับเป็นกำลังใจให้ทุกท่านครับ
+<ATTRS> ค่ะ สู้ <CONT_START> เสียภาษีก้อยอมจ่ายให้สุดใจ <START>,<ATTRS> ค่ะ สู้ <CONT_START> เสียภาษีก้อยอมจ่ายให้สุดใจ <START> เสียภาษีก้อยอมจ่ายค่ะสู้ให้สุดใจ
+<ATTRS> ชาบู เอ็ม เค <CONT_START> หมูกระทะจะเยียวยาทุกแห่ง <START>,<ATTRS> ชาบู เอ็ม เค <CONT_START> หมูกระทะจะเยียวยาทุกแห่ง <START> หมูกระทะชาบูเอ็มเคจะเยียวยาทุกแห่ง
+<ATTRS> หมู วง ถูกกว่า <CONT_START> เชื่อวันอีก😱 <START>,<ATTRS> หมู วง ถูกกว่า <CONT_START> เชื่อวันอีก😱 <START> หมูวงถูกกว่าเชื่อวันอีก😱
+<ATTRS> ไป hotกันเถอะ😆😋 <CONT_START> หืมpotที่เพชร <START>,<ATTRS> ไป hotกันเถอะ😆😋 <CONT_START> หืมpotที่เพชร <START> หืมไปhotpotที่เพชรกันเถอะ😆😋
+<ATTRS> ▁อยากจะจัด <CONT_START> เครื่องดีแมคจริงเลย5 <START>,<ATTRS> ▁อยากจะจัด <CONT_START> เครื่องดีแมคจริงเลย5 <START> อยากจะจัดเครื่องดีแมคจริงเลย5
+<ATTRS> ต้องไปจัด <CONT_START> โอ้ยไม่ไหวแล้วเย็นนี้ <START>,<ATTRS> ต้องไปจัด <CONT_START> โอ้ยไม่ไหวแล้วเย็นนี้ <START> โอ้ยไม่ไหวแล้วเย็นนี้ต้องไปจัด
+<ATTRS> ดีจริง <CONT_START> hondaแมร่งไม่ล้มสักคัน <START>,<ATTRS> ดีจริง <CONT_START> hondaแมร่งไม่ล้มสักคัน <START> hondaแมร่งดีจริงไม่ล้มสักคัน
+<ATTRS> ▁ขอบคุณพรรคนี้ น่า เลือกมากค่ะ <CONT_START> ค่ามา😳 <START>,<ATTRS> ▁ขอบคุณพรรคนี้ น่า เลือกมากค่ะ <CONT_START> ค่ามา😳 <START> ขอบคุณค่ามาพรรคนี้น่าเลือกมากค่ะ😳
+<ATTRS> เริ่ด <CONT_START> คุณลุงแท็กซี่เปิดk-popก็อยู่ <START>,<ATTRS> เริ่ด <CONT_START> คุณลุงแท็กซี่เปิดk-popก็อยู่ <START> คุณลุงแท็กซี่เปิดk-popก็เริ่ดอยู่
+<ATTRS> อยากกินอ่ะ ไป <CONT_START> เค้ากีดกันนะๆๆก่อนหมดโปร <START>,<ATTRS> อยากกินอ่ะ ไป <CONT_START> เค้ากีดกันนะๆๆก่อนหมดโปร <START> เค้าอยากกินอ่ะไปกีดกันนะๆๆก่อนหมดโปร
+<ATTRS> เจ๋ง สุด <CONT_START> ช่วงใช้กระบะนาวาร่าดังสุด <START>,<ATTRS> เจ๋ง สุด <CONT_START> ช่วงใช้กระบะนาวาร่าดังสุด <START> ช่วงใช้กระบะนาวาร่าเจ๋งสุดดังสุด
+<ATTRS> นาย เอาใจ เราไปเลย ใน <CONT_START> ธนาคารกสิกรเสือดำ <START>,<ATTRS> นาย เอาใจ เราไปเลย ใน <CONT_START> ธนาคารกสิกรเสือดำ <START> ธนาคารกสิกรนายเอาใจเราไปเลยในเสือดำ
+<ATTRS> นัด วันหยุดไปเลย จะ <CONT_START> แล่29วันสุดท้าย <START>,<ATTRS> นัด วันหยุดไปเลย จะ <CONT_START> แล่29วันสุดท้าย <START> นัดวันหยุดแล่29ไปเลยจะวันสุดท้าย
+<ATTRS> ไง ที่ ชอบกิน <CONT_START> นี่แพ็ตตี้เบียร์ช้างอ่ะ <START>,<ATTRS> ไง ที่ ชอบกิน <CONT_START> นี่แพ็ตตี้เบียร์ช้างอ่ะ <START> นี่แพ็ตตี้ไงที่ชอบกินเบียร์ช้างอ่ะ
+<ATTRS> ▁ผม รัก <CONT_START> เม้นนี้ชัดเจนทราบแล้วเปลี่ยน <START>,<ATTRS> ▁ผม รัก <CONT_START> เม้นนี้ชัดเจนทราบแล้วเปลี่ยน <START> ผมรักเม้นนี้ชัดเจนทราบแล้วเปลี่ยน
+<ATTRS> ▁พรุ่งนี้ไปกิน บ า บี <CONT_START> ก้อนก่อนเถอะออเจ้า <START>,<ATTRS> ▁พรุ่งนี้ไปกิน บ า บี <CONT_START> ก้อนก่อนเถอะออเจ้า <START> พรุ่งนี้ไปกินบาบีก้อนก่อนเถอะออเจ้า
+<ATTRS> อยากกิน <CONT_START> ยังเหมือนเดิมไม่เปลี่ยนแปลง <START>,<ATTRS> อยากกิน <CONT_START> ยังเหมือนเดิมไม่เปลี่ยนแปลง <START> ยังอยากกินเหมือนเดิมไม่เปลี่ยนแปลง
+<ATTRS> ไป ไป <CONT_START> รอทุกหนเลยตอนนี้อยากจะวาshowใน <START>,<ATTRS> ไป ไป <CONT_START> รอทุกหนเลยตอนนี้อยากจะวาshowใน <START> รอทุกหนเลยตอนนี้อยากจะวาไปไปshowใน
+<ATTRS> ▁อยากป่ะ <CONT_START> เอื้อยออกซอย150ใน5 <START>,<ATTRS> ▁อยากป่ะ <CONT_START> เอื้อยออกซอย150ใน5 <START> อยากป่ะเอื้อยออกซอย150ใน5
+<ATTRS> ▁อยากกิน <CONT_START> เซ็ทอาหารกลางวันกับน้ำนี่จัง <START>,<ATTRS> ▁อยากกิน <CONT_START> เซ็ทอาหารกลางวันกับน้ำนี่จัง <START> อยากกินเซ็ทอาหารกลางวันกับน้ำนี่จัง
