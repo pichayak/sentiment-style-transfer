@@ -6,7 +6,7 @@ We developed a sentiment style transfer system using a delete, retrieve and gene
 ### before you run AppPy.ipynb (which is webhook for LineAPIChatbot)
 - change the lineAccessToken to your own 
 - if you can't open in your machine just copy the "appPy" folder to google drive, then open via GoogleColab
-- download (the model weights)[https://drive.google.com/file/d/1JG1SExgmzycMvBlNzlHugEu2w3l19O8q/view?usp=sharing] and place it in generation folder
+- download [the model weights](https://drive.google.com/file/d/1JG1SExgmzycMvBlNzlHugEu2w3l19O8q/view?usp=sharing) and place it in generation folder
 
 ### after you run AppPy.ipynb
 1. go through your LineChatbot Account (https://developers.line.biz/)
